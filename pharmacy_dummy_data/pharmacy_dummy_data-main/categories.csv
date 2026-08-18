@@ -1,0 +1,621 @@
+id,name,pharmacy_id,created_at,active
+1,Vitamins & Supplements - 1,467,2025-09-04T10:48:50,True
+2,Dermatology - 2,181,2024-02-10T08:50:35,True
+3,Respiratory - 3,538,2024-06-28T08:36:42,True
+4,Gastrointestinal - 4,138,2024-10-10T14:08:01,True
+5,Cardiovascular - 5,376,2025-12-13T20:04:51,True
+6,Analgesics & Pain Relief - 6,220,2025-03-25T19:37:31,True
+7,Analgesics & Pain Relief - 7,100,2024-08-04T10:17:12,True
+8,Respiratory - 8,368,2025-09-12T14:19:48,True
+9,Vitamins & Supplements - 9,218,2024-05-03T19:49:09,True
+10,Analgesics & Pain Relief - 10,145,2025-01-14T09:23:39,True
+11,Vitamins & Supplements - 11,491,2024-09-16T12:03:10,True
+12,Analgesics & Pain Relief - 12,454,2024-07-14T17:01:26,True
+13,Cardiovascular - 13,134,2024-05-17T18:57:06,True
+14,Gastrointestinal - 14,328,2025-03-27T18:40:41,True
+15,Analgesics & Pain Relief - 15,228,2025-01-08T08:07:01,True
+16,Gastrointestinal - 16,416,2025-10-25T18:28:23,True
+17,Respiratory - 17,316,2024-06-15T17:43:49,True
+18,Gastrointestinal - 18,381,2025-07-27T10:15:16,True
+19,First Aid - 19,109,2024-05-15T14:00:07,True
+20,Analgesics & Pain Relief - 20,61,2024-09-04T08:13:01,True
+21,Respiratory - 21,236,2024-08-13T12:48:05,True
+22,First Aid - 22,166,2025-09-02T16:00:33,True
+23,Antibiotics - 23,376,2025-02-05T17:01:55,True
+24,Antibiotics - 24,351,2024-08-03T11:32:02,True
+25,Respiratory - 25,464,2024-04-02T15:45:14,True
+26,Gastrointestinal - 26,82,2024-05-12T16:17:31,True
+27,Dermatology - 27,205,2025-03-04T19:12:01,True
+28,Analgesics & Pain Relief - 28,446,2024-06-18T16:43:22,True
+29,First Aid - 29,437,2025-10-09T15:01:13,True
+30,Antibiotics - 30,6,2025-04-22T20:55:49,True
+31,Cardiovascular - 31,413,2024-08-09T14:56:25,True
+32,Respiratory - 32,153,2024-06-19T09:33:15,True
+33,Vitamins & Supplements - 33,487,2024-01-02T12:25:26,True
+34,Respiratory - 34,103,2025-06-21T17:01:48,True
+35,Antibiotics - 35,120,2024-08-19T15:42:29,True
+36,Antibiotics - 36,259,2024-01-24T18:16:37,True
+37,Cardiovascular - 37,70,2025-10-01T13:15:42,True
+38,Antibiotics - 38,325,2024-01-09T17:38:32,True
+39,Analgesics & Pain Relief - 39,305,2025-07-26T17:33:31,True
+40,Cardiovascular - 40,67,2024-08-19T15:43:07,True
+41,Respiratory - 41,392,2025-02-14T14:06:09,True
+42,Cardiovascular - 42,497,2025-01-16T15:36:17,True
+43,Cardiovascular - 43,239,2024-06-14T10:13:47,True
+44,Dermatology - 44,117,2025-01-03T19:52:58,True
+45,Dermatology - 45,170,2025-11-05T08:13:29,True
+46,Analgesics & Pain Relief - 46,528,2025-09-28T10:06:05,True
+47,Respiratory - 47,57,2024-11-22T18:01:40,True
+48,Dermatology - 48,98,2024-04-12T18:44:48,True
+49,First Aid - 49,151,2024-02-15T08:46:53,True
+50,Dermatology - 50,521,2024-02-18T14:57:16,True
+51,Dermatology - 51,548,2024-03-25T09:28:56,True
+52,Gastrointestinal - 52,535,2024-10-15T16:23:28,True
+53,Analgesics & Pain Relief - 53,177,2024-01-09T16:02:26,True
+54,First Aid - 54,328,2025-11-03T10:53:12,True
+55,Respiratory - 55,88,2025-10-13T09:48:41,True
+56,Antibiotics - 56,162,2025-11-27T17:17:50,True
+57,Vitamins & Supplements - 57,434,2024-08-24T20:25:37,True
+58,First Aid - 58,52,2025-01-19T13:14:45,True
+59,Antibiotics - 59,265,2024-10-14T09:22:27,True
+60,Analgesics & Pain Relief - 60,507,2024-03-16T12:43:57,True
+61,Cardiovascular - 61,342,2025-06-04T20:59:29,True
+62,Respiratory - 62,187,2025-11-02T17:59:26,True
+63,Dermatology - 63,386,2025-09-08T19:16:59,True
+64,Respiratory - 64,27,2025-08-17T12:09:04,True
+65,First Aid - 65,12,2024-09-11T09:24:09,True
+66,Vitamins & Supplements - 66,365,2024-11-14T12:34:34,True
+67,Vitamins & Supplements - 67,1,2024-05-18T14:34:44,True
+68,Cardiovascular - 68,43,2025-03-09T14:30:09,True
+69,First Aid - 69,70,2025-01-20T09:05:19,True
+70,Antibiotics - 70,220,2024-10-25T19:15:22,True
+71,Vitamins & Supplements - 71,210,2025-02-08T11:30:46,True
+72,Respiratory - 72,1,2025-03-08T08:58:16,True
+73,Gastrointestinal - 73,524,2024-07-11T20:53:44,True
+74,Analgesics & Pain Relief - 74,170,2025-05-25T12:31:09,True
+75,Dermatology - 75,128,2024-07-11T18:02:55,True
+76,Cardiovascular - 76,297,2025-01-26T17:26:25,True
+77,Antibiotics - 77,482,2025-12-03T20:33:08,True
+78,Dermatology - 78,43,2024-07-15T16:09:06,True
+79,Dermatology - 79,82,2025-05-14T16:54:06,True
+80,Cardiovascular - 80,335,2024-07-21T14:16:34,True
+81,Respiratory - 81,255,2025-12-20T16:28:19,True
+82,Respiratory - 82,320,2024-06-11T17:16:20,True
+83,Analgesics & Pain Relief - 83,114,2024-10-05T19:38:43,True
+84,Vitamins & Supplements - 84,60,2025-06-08T19:59:24,True
+85,Analgesics & Pain Relief - 85,360,2024-02-16T09:27:43,True
+86,Analgesics & Pain Relief - 86,233,2025-04-14T13:15:26,True
+87,Vitamins & Supplements - 87,103,2025-06-12T17:03:24,True
+88,First Aid - 88,8,2024-01-20T18:41:36,True
+89,Dermatology - 89,140,2025-09-19T12:11:03,True
+90,Dermatology - 90,386,2025-11-28T12:50:57,True
+91,Respiratory - 91,442,2025-07-02T13:50:27,True
+92,Dermatology - 92,166,2024-05-11T14:55:23,True
+93,First Aid - 93,454,2025-09-01T17:28:50,True
+94,Dermatology - 94,327,2024-04-26T16:51:38,True
+95,Analgesics & Pain Relief - 95,436,2024-04-28T20:23:16,True
+96,Respiratory - 96,391,2024-11-06T20:26:21,True
+97,Dermatology - 97,56,2024-07-21T13:38:38,True
+98,Gastrointestinal - 98,235,2024-01-23T18:27:10,True
+99,Vitamins & Supplements - 99,122,2024-03-10T10:48:51,True
+100,First Aid - 100,439,2025-12-22T15:19:25,True
+101,Vitamins & Supplements - 101,324,2024-07-01T09:05:11,True
+102,Dermatology - 102,103,2024-06-28T16:52:16,True
+103,Respiratory - 103,62,2024-09-01T09:30:37,True
+104,Respiratory - 104,493,2025-09-05T11:55:05,True
+105,Vitamins & Supplements - 105,367,2025-01-26T12:28:08,True
+106,Respiratory - 106,270,2024-11-26T14:04:09,True
+107,Antibiotics - 107,169,2024-04-17T12:14:47,True
+108,First Aid - 108,351,2024-07-12T19:37:46,True
+109,Respiratory - 109,546,2024-08-18T13:52:40,True
+110,Vitamins & Supplements - 110,378,2025-09-06T12:08:07,True
+111,Cardiovascular - 111,516,2025-05-12T20:48:17,True
+112,Analgesics & Pain Relief - 112,33,2025-05-10T18:23:18,True
+113,First Aid - 113,347,2024-04-28T09:07:08,True
+114,Cardiovascular - 114,158,2025-05-25T16:39:48,True
+115,First Aid - 115,87,2025-08-25T14:48:13,True
+116,Cardiovascular - 116,301,2024-08-06T08:12:55,True
+117,Respiratory - 117,174,2024-08-12T19:00:41,True
+118,Analgesics & Pain Relief - 118,69,2025-04-27T08:16:21,True
+119,Cardiovascular - 119,34,2025-10-26T11:20:46,True
+120,Vitamins & Supplements - 120,274,2024-06-28T11:56:19,True
+121,Analgesics & Pain Relief - 121,37,2024-09-03T19:55:25,True
+122,First Aid - 122,486,2025-09-03T14:22:11,True
+123,Dermatology - 123,261,2025-11-12T12:16:27,True
+124,Analgesics & Pain Relief - 124,545,2024-09-12T19:04:30,True
+125,Cardiovascular - 125,462,2024-01-21T18:41:48,True
+126,Gastrointestinal - 126,247,2024-03-18T15:32:32,True
+127,Dermatology - 127,396,2025-10-17T16:49:09,True
+128,Analgesics & Pain Relief - 128,314,2025-08-19T19:08:53,True
+129,First Aid - 129,108,2025-08-22T10:16:24,True
+130,Cardiovascular - 130,38,2024-12-20T16:47:24,True
+131,Dermatology - 131,180,2025-03-07T16:41:14,True
+132,First Aid - 132,167,2024-04-19T20:06:09,True
+133,Antibiotics - 133,512,2024-07-27T10:56:36,True
+134,Cardiovascular - 134,177,2024-12-19T16:59:13,True
+135,Vitamins & Supplements - 135,150,2024-01-27T09:00:11,True
+136,Cardiovascular - 136,180,2024-01-03T19:33:24,True
+137,First Aid - 137,445,2025-02-02T08:32:53,True
+138,First Aid - 138,396,2024-01-18T09:52:18,True
+139,Cardiovascular - 139,382,2025-02-10T08:58:46,True
+140,Cardiovascular - 140,297,2025-11-08T18:05:37,True
+141,Analgesics & Pain Relief - 141,495,2025-07-26T20:49:54,True
+142,Vitamins & Supplements - 142,200,2025-05-14T17:20:53,True
+143,Antibiotics - 143,36,2024-04-24T20:01:29,True
+144,Respiratory - 144,187,2024-06-27T12:21:47,True
+145,Respiratory - 145,449,2024-06-01T19:02:27,True
+146,Respiratory - 146,400,2025-05-03T09:00:57,True
+147,Respiratory - 147,380,2025-02-23T09:45:53,True
+148,Cardiovascular - 148,289,2024-08-18T13:06:25,True
+149,Dermatology - 149,481,2024-09-20T08:23:49,True
+150,Cardiovascular - 150,441,2025-09-07T12:35:09,True
+151,Respiratory - 151,548,2025-03-13T17:29:50,True
+152,Analgesics & Pain Relief - 152,541,2024-09-14T16:35:33,True
+153,Antibiotics - 153,484,2025-10-03T13:01:23,True
+154,Respiratory - 154,185,2025-08-28T09:36:29,True
+155,Respiratory - 155,24,2024-03-01T09:08:27,True
+156,Gastrointestinal - 156,466,2024-07-01T12:05:35,True
+157,Analgesics & Pain Relief - 157,378,2024-02-26T15:23:21,True
+158,Gastrointestinal - 158,121,2025-08-15T12:45:05,True
+159,Vitamins & Supplements - 159,500,2025-07-20T10:50:04,True
+160,Antibiotics - 160,149,2025-02-20T19:37:25,True
+161,Vitamins & Supplements - 161,447,2025-03-06T10:38:30,True
+162,Gastrointestinal - 162,525,2024-08-02T20:45:56,True
+163,Dermatology - 163,376,2025-03-04T16:22:43,True
+164,Dermatology - 164,382,2025-01-11T14:49:32,True
+165,Vitamins & Supplements - 165,3,2024-03-28T13:31:53,True
+166,Analgesics & Pain Relief - 166,19,2024-02-21T14:14:59,True
+167,Gastrointestinal - 167,420,2025-01-15T10:13:52,True
+168,Vitamins & Supplements - 168,286,2025-03-17T10:58:35,True
+169,Gastrointestinal - 169,287,2024-01-03T15:33:41,True
+170,Vitamins & Supplements - 170,165,2025-12-15T11:05:08,True
+171,Respiratory - 171,75,2025-09-26T20:23:00,True
+172,First Aid - 172,68,2024-06-18T18:44:48,True
+173,Analgesics & Pain Relief - 173,94,2024-10-12T08:39:11,True
+174,First Aid - 174,112,2024-06-06T14:05:47,True
+175,Analgesics & Pain Relief - 175,372,2024-08-02T17:08:12,True
+176,Analgesics & Pain Relief - 176,34,2025-02-26T14:37:20,True
+177,Analgesics & Pain Relief - 177,5,2025-05-23T18:05:56,True
+178,Dermatology - 178,336,2025-04-26T18:09:51,True
+179,First Aid - 179,424,2024-07-12T10:38:16,True
+180,Dermatology - 180,484,2024-07-27T19:05:39,True
+181,Vitamins & Supplements - 181,486,2024-05-26T16:05:13,True
+182,Antibiotics - 182,37,2025-06-02T10:22:49,True
+183,Respiratory - 183,228,2024-02-15T12:13:56,True
+184,Gastrointestinal - 184,449,2025-09-25T11:21:55,True
+185,Vitamins & Supplements - 185,431,2024-07-28T12:34:27,True
+186,Analgesics & Pain Relief - 186,440,2025-04-19T16:14:45,True
+187,Dermatology - 187,307,2024-09-10T10:20:51,True
+188,Cardiovascular - 188,392,2025-07-05T16:03:21,True
+189,Gastrointestinal - 189,55,2025-08-09T19:03:25,True
+190,Gastrointestinal - 190,460,2025-06-03T13:25:10,True
+191,Cardiovascular - 191,188,2024-10-02T16:59:21,True
+192,Gastrointestinal - 192,110,2024-08-21T19:19:46,True
+193,Analgesics & Pain Relief - 193,105,2024-02-03T09:29:49,True
+194,Respiratory - 194,98,2024-03-11T20:18:45,True
+195,First Aid - 195,399,2024-11-23T10:10:40,True
+196,Analgesics & Pain Relief - 196,416,2025-04-11T12:44:05,True
+197,Vitamins & Supplements - 197,1,2024-11-05T10:28:57,True
+198,Gastrointestinal - 198,366,2024-01-06T14:48:51,True
+199,Analgesics & Pain Relief - 199,81,2025-02-11T11:55:46,True
+200,Vitamins & Supplements - 200,356,2025-08-21T17:21:02,True
+201,First Aid - 201,290,2024-08-04T20:28:45,True
+202,Cardiovascular - 202,133,2025-10-18T08:59:22,True
+203,Gastrointestinal - 203,29,2024-11-25T09:03:00,True
+204,Respiratory - 204,295,2024-05-25T19:00:13,True
+205,Antibiotics - 205,4,2025-06-05T08:56:13,True
+206,Respiratory - 206,47,2025-02-03T16:19:40,True
+207,Antibiotics - 207,227,2025-10-20T10:34:22,True
+208,Gastrointestinal - 208,250,2025-11-19T13:09:02,True
+209,Gastrointestinal - 209,398,2024-01-02T14:31:36,True
+210,Analgesics & Pain Relief - 210,20,2025-10-14T16:03:04,True
+211,Respiratory - 211,450,2025-05-02T20:44:57,True
+212,Cardiovascular - 212,491,2025-12-22T10:45:56,True
+213,Cardiovascular - 213,199,2025-05-19T19:23:55,True
+214,Cardiovascular - 214,22,2024-07-16T15:24:48,True
+215,Vitamins & Supplements - 215,343,2025-01-07T10:40:22,True
+216,Analgesics & Pain Relief - 216,75,2025-04-13T13:16:08,True
+217,Respiratory - 217,189,2025-02-15T16:16:11,True
+218,Analgesics & Pain Relief - 218,192,2024-04-26T11:19:21,True
+219,Antibiotics - 219,72,2024-12-26T08:36:02,True
+220,Respiratory - 220,48,2025-04-01T18:48:34,True
+221,Respiratory - 221,523,2025-04-01T10:56:57,True
+222,Antibiotics - 222,91,2025-07-15T11:50:08,True
+223,Analgesics & Pain Relief - 223,289,2025-08-11T20:56:36,True
+224,First Aid - 224,332,2024-02-06T17:47:37,True
+225,Respiratory - 225,320,2024-07-02T11:53:15,True
+226,Respiratory - 226,184,2024-12-05T15:23:22,True
+227,Vitamins & Supplements - 227,80,2025-08-15T08:44:38,True
+228,Vitamins & Supplements - 228,2,2025-02-03T20:22:53,True
+229,Vitamins & Supplements - 229,232,2024-03-07T14:44:10,True
+230,Antibiotics - 230,176,2024-06-17T20:07:33,True
+231,First Aid - 231,5,2025-10-04T14:06:49,True
+232,Antibiotics - 232,516,2025-04-18T13:21:35,True
+233,Antibiotics - 233,321,2025-12-16T10:45:44,True
+234,Antibiotics - 234,391,2024-12-02T20:49:21,True
+235,Cardiovascular - 235,491,2024-02-18T14:38:09,True
+236,First Aid - 236,177,2025-06-10T08:42:06,True
+237,Vitamins & Supplements - 237,173,2025-03-01T08:11:35,True
+238,Cardiovascular - 238,302,2024-11-27T11:08:42,True
+239,Vitamins & Supplements - 239,61,2025-02-09T12:31:17,True
+240,Cardiovascular - 240,135,2024-02-14T13:36:38,True
+241,Cardiovascular - 241,11,2024-12-21T19:00:08,True
+242,Analgesics & Pain Relief - 242,213,2024-05-23T19:09:14,True
+243,Vitamins & Supplements - 243,134,2025-08-12T10:44:56,True
+244,Antibiotics - 244,250,2025-12-07T08:57:49,True
+245,Vitamins & Supplements - 245,516,2024-07-11T08:26:16,True
+246,Respiratory - 246,202,2024-11-27T08:22:45,True
+247,Cardiovascular - 247,451,2025-08-12T14:57:37,True
+248,Antibiotics - 248,230,2024-02-22T08:41:10,True
+249,Antibiotics - 249,426,2024-08-10T14:55:38,True
+250,Analgesics & Pain Relief - 250,163,2024-02-26T08:16:15,True
+251,Dermatology - 251,69,2025-07-06T10:36:05,True
+252,Cardiovascular - 252,122,2025-08-01T16:03:23,True
+253,Respiratory - 253,378,2025-07-15T20:56:57,True
+254,Analgesics & Pain Relief - 254,393,2024-12-13T10:05:36,True
+255,Respiratory - 255,371,2025-01-10T17:18:49,True
+256,Dermatology - 256,308,2024-08-14T14:12:43,True
+257,Dermatology - 257,194,2024-10-14T13:00:19,True
+258,Respiratory - 258,172,2025-04-05T10:24:08,True
+259,Respiratory - 259,121,2024-05-05T12:13:50,True
+260,Respiratory - 260,141,2025-11-18T19:20:17,True
+261,Vitamins & Supplements - 261,104,2024-09-24T15:38:43,True
+262,Antibiotics - 262,418,2024-11-08T19:19:58,True
+263,Antibiotics - 263,390,2025-04-07T16:21:51,True
+264,Cardiovascular - 264,138,2025-08-06T13:42:03,True
+265,Gastrointestinal - 265,545,2024-04-08T12:12:52,True
+266,Analgesics & Pain Relief - 266,247,2024-02-23T13:54:42,True
+267,First Aid - 267,416,2024-06-24T12:23:55,True
+268,First Aid - 268,400,2025-08-11T20:29:25,True
+269,Dermatology - 269,344,2024-06-08T14:23:36,True
+270,First Aid - 270,278,2025-07-24T17:49:32,True
+271,Respiratory - 271,66,2025-04-09T10:05:11,True
+272,Gastrointestinal - 272,293,2025-01-18T19:58:00,True
+273,Gastrointestinal - 273,314,2024-06-06T20:25:38,True
+274,Vitamins & Supplements - 274,331,2025-10-13T14:19:54,True
+275,First Aid - 275,187,2024-04-01T15:55:17,True
+276,Vitamins & Supplements - 276,246,2025-12-19T09:17:11,True
+277,Respiratory - 277,126,2025-01-22T12:41:34,True
+278,Cardiovascular - 278,254,2024-07-27T09:19:49,True
+279,Gastrointestinal - 279,317,2024-12-26T08:28:36,True
+280,Respiratory - 280,226,2025-04-04T18:57:01,True
+281,Analgesics & Pain Relief - 281,547,2024-08-17T13:58:10,True
+282,Vitamins & Supplements - 282,124,2024-06-24T16:28:05,True
+283,Dermatology - 283,326,2024-04-12T18:17:47,True
+284,Vitamins & Supplements - 284,444,2025-05-09T18:41:56,True
+285,First Aid - 285,50,2024-08-07T18:10:55,True
+286,Analgesics & Pain Relief - 286,542,2025-06-24T10:14:57,True
+287,First Aid - 287,474,2025-03-19T14:25:43,True
+288,Gastrointestinal - 288,417,2024-04-15T08:07:17,True
+289,Analgesics & Pain Relief - 289,48,2025-03-27T15:59:34,True
+290,Antibiotics - 290,26,2025-06-21T16:42:02,True
+291,Analgesics & Pain Relief - 291,26,2024-08-28T18:11:46,True
+292,Vitamins & Supplements - 292,68,2025-03-11T15:42:54,True
+293,Cardiovascular - 293,123,2025-01-20T12:14:36,True
+294,Antibiotics - 294,223,2025-09-26T18:44:05,True
+295,First Aid - 295,169,2024-04-04T11:24:39,True
+296,Gastrointestinal - 296,360,2024-09-25T14:11:58,True
+297,Analgesics & Pain Relief - 297,191,2025-04-12T10:46:23,True
+298,Gastrointestinal - 298,219,2024-03-06T10:40:44,True
+299,First Aid - 299,233,2024-09-20T17:11:00,True
+300,Dermatology - 300,373,2025-12-23T20:53:14,True
+301,Gastrointestinal - 301,231,2024-04-14T14:05:32,True
+302,Gastrointestinal - 302,36,2025-07-03T08:35:29,True
+303,Analgesics & Pain Relief - 303,524,2024-07-20T15:50:07,True
+304,Vitamins & Supplements - 304,205,2025-01-04T08:31:07,True
+305,Vitamins & Supplements - 305,406,2024-06-21T16:14:57,True
+306,Vitamins & Supplements - 306,92,2025-11-26T18:27:59,True
+307,Dermatology - 307,547,2025-07-16T11:20:28,True
+308,Dermatology - 308,135,2024-04-07T19:09:09,True
+309,Vitamins & Supplements - 309,521,2024-11-04T20:38:18,True
+310,Dermatology - 310,158,2025-09-22T19:36:09,True
+311,Vitamins & Supplements - 311,183,2025-07-02T14:11:52,True
+312,Gastrointestinal - 312,217,2025-11-02T14:15:53,True
+313,First Aid - 313,251,2024-11-04T16:03:17,True
+314,Respiratory - 314,504,2025-02-27T11:00:31,True
+315,Gastrointestinal - 315,235,2025-02-21T16:20:09,True
+316,Analgesics & Pain Relief - 316,74,2024-07-06T14:42:03,True
+317,Dermatology - 317,409,2024-10-27T19:30:42,True
+318,Gastrointestinal - 318,396,2024-06-24T12:50:30,True
+319,Analgesics & Pain Relief - 319,371,2025-05-19T09:51:11,True
+320,Antibiotics - 320,378,2024-07-24T12:04:04,True
+321,Gastrointestinal - 321,338,2025-05-01T17:59:42,True
+322,Antibiotics - 322,385,2024-10-11T15:35:31,True
+323,Gastrointestinal - 323,190,2024-08-26T08:51:08,True
+324,Analgesics & Pain Relief - 324,260,2024-07-06T18:00:04,True
+325,First Aid - 325,99,2024-12-22T09:09:19,True
+326,Antibiotics - 326,207,2024-12-14T17:25:29,True
+327,First Aid - 327,416,2024-10-17T15:13:04,True
+328,Vitamins & Supplements - 328,437,2025-08-08T09:51:38,True
+329,Vitamins & Supplements - 329,136,2025-11-13T18:48:01,True
+330,First Aid - 330,348,2025-11-18T14:22:15,True
+331,Cardiovascular - 331,317,2024-02-20T09:40:49,True
+332,Respiratory - 332,337,2025-04-01T16:43:46,True
+333,Gastrointestinal - 333,187,2024-02-05T08:10:07,True
+334,Antibiotics - 334,361,2024-06-16T20:24:17,True
+335,Dermatology - 335,468,2025-08-01T19:03:00,True
+336,Vitamins & Supplements - 336,431,2025-07-10T12:34:42,True
+337,Respiratory - 337,509,2025-05-19T15:37:28,True
+338,Dermatology - 338,92,2025-04-13T13:27:44,True
+339,Analgesics & Pain Relief - 339,264,2025-01-01T14:15:22,True
+340,Gastrointestinal - 340,226,2025-04-02T17:47:24,True
+341,Dermatology - 341,437,2024-08-15T09:07:56,True
+342,Gastrointestinal - 342,141,2025-04-11T11:03:44,True
+343,Gastrointestinal - 343,478,2024-03-12T13:07:10,True
+344,Vitamins & Supplements - 344,474,2025-11-07T14:19:15,True
+345,Antibiotics - 345,322,2025-09-20T16:53:36,True
+346,Gastrointestinal - 346,403,2025-05-14T18:27:15,True
+347,Dermatology - 347,339,2025-05-24T11:19:45,True
+348,Dermatology - 348,75,2025-10-04T14:36:59,True
+349,Cardiovascular - 349,249,2025-05-19T15:18:14,True
+350,Dermatology - 350,420,2025-01-17T20:43:53,True
+351,Vitamins & Supplements - 351,150,2024-01-19T13:32:26,True
+352,Vitamins & Supplements - 352,489,2024-10-22T16:41:49,True
+353,Dermatology - 353,103,2024-03-04T08:57:48,True
+354,First Aid - 354,133,2024-12-06T09:55:30,True
+355,Analgesics & Pain Relief - 355,491,2025-05-28T16:22:12,True
+356,Dermatology - 356,423,2025-06-16T20:37:08,True
+357,Vitamins & Supplements - 357,39,2024-01-02T12:17:36,True
+358,Respiratory - 358,312,2025-02-05T19:39:14,True
+359,Analgesics & Pain Relief - 359,29,2024-12-28T13:06:08,True
+360,Antibiotics - 360,209,2025-06-28T14:55:22,True
+361,Respiratory - 361,195,2025-10-11T18:43:53,True
+362,First Aid - 362,3,2025-02-19T17:13:04,True
+363,Dermatology - 363,370,2025-04-09T19:20:25,True
+364,Respiratory - 364,227,2024-02-08T16:35:23,True
+365,Analgesics & Pain Relief - 365,210,2025-03-07T14:10:59,True
+366,Vitamins & Supplements - 366,35,2024-04-10T15:18:11,True
+367,Dermatology - 367,417,2024-11-04T08:19:14,True
+368,First Aid - 368,426,2025-09-27T08:02:35,True
+369,Gastrointestinal - 369,145,2025-07-25T17:03:09,True
+370,Antibiotics - 370,499,2025-05-03T15:16:12,True
+371,Analgesics & Pain Relief - 371,310,2024-06-02T10:14:34,True
+372,Gastrointestinal - 372,49,2024-03-27T16:39:17,True
+373,Respiratory - 373,401,2025-03-15T20:21:46,True
+374,Vitamins & Supplements - 374,204,2024-03-17T10:39:50,True
+375,Cardiovascular - 375,10,2024-01-05T13:25:36,True
+376,Antibiotics - 376,221,2024-01-08T08:14:12,True
+377,Dermatology - 377,419,2025-08-03T19:44:07,True
+378,Respiratory - 378,468,2025-01-15T14:09:49,True
+379,First Aid - 379,356,2025-04-24T08:11:17,True
+380,Gastrointestinal - 380,216,2024-02-06T11:47:37,True
+381,Dermatology - 381,500,2024-04-01T11:17:45,True
+382,Vitamins & Supplements - 382,48,2024-09-10T15:04:51,True
+383,Analgesics & Pain Relief - 383,94,2025-12-06T10:42:51,True
+384,Vitamins & Supplements - 384,300,2024-06-02T15:52:56,True
+385,Respiratory - 385,266,2025-12-25T09:53:58,True
+386,First Aid - 386,508,2025-05-14T09:39:50,True
+387,Vitamins & Supplements - 387,271,2024-07-12T18:34:14,True
+388,First Aid - 388,158,2025-11-05T13:32:55,True
+389,Antibiotics - 389,185,2024-06-20T08:51:37,True
+390,Gastrointestinal - 390,395,2025-09-10T19:16:58,True
+391,Vitamins & Supplements - 391,254,2025-04-21T11:28:36,True
+392,Antibiotics - 392,191,2024-03-03T09:03:07,True
+393,First Aid - 393,526,2024-04-23T13:44:35,True
+394,Respiratory - 394,52,2024-08-28T08:55:52,True
+395,First Aid - 395,299,2024-11-08T17:09:22,True
+396,Antibiotics - 396,258,2025-03-20T13:47:56,True
+397,Antibiotics - 397,506,2024-03-06T10:57:31,True
+398,Respiratory - 398,261,2024-04-18T15:11:10,True
+399,Analgesics & Pain Relief - 399,370,2025-03-05T09:24:11,True
+400,Respiratory - 400,329,2025-10-21T14:54:12,True
+401,Cardiovascular - 401,2,2024-04-10T12:19:28,True
+402,Analgesics & Pain Relief - 402,313,2025-09-20T17:59:21,True
+403,Analgesics & Pain Relief - 403,278,2025-01-26T10:00:55,True
+404,Gastrointestinal - 404,387,2025-02-20T20:55:20,True
+405,Cardiovascular - 405,459,2025-05-20T19:57:11,True
+406,Respiratory - 406,438,2024-03-20T19:20:26,True
+407,Cardiovascular - 407,275,2024-08-16T15:20:50,True
+408,Vitamins & Supplements - 408,164,2025-10-05T08:26:05,True
+409,Respiratory - 409,358,2024-03-26T17:08:01,True
+410,Gastrointestinal - 410,162,2024-10-10T09:04:20,True
+411,Respiratory - 411,224,2024-03-19T13:20:48,True
+412,Respiratory - 412,239,2025-04-15T18:46:51,True
+413,Vitamins & Supplements - 413,419,2024-10-24T12:42:48,True
+414,Vitamins & Supplements - 414,44,2025-07-03T13:42:16,True
+415,Analgesics & Pain Relief - 415,348,2024-04-07T19:06:14,True
+416,Analgesics & Pain Relief - 416,45,2025-10-18T11:45:54,True
+417,Vitamins & Supplements - 417,66,2024-03-28T10:06:53,True
+418,Vitamins & Supplements - 418,79,2025-12-10T16:42:58,True
+419,Antibiotics - 419,382,2024-07-18T14:34:31,True
+420,Respiratory - 420,306,2024-02-25T17:07:33,True
+421,Gastrointestinal - 421,269,2024-07-10T12:48:08,True
+422,Analgesics & Pain Relief - 422,44,2025-03-19T16:58:59,True
+423,First Aid - 423,453,2025-04-27T13:33:20,True
+424,Respiratory - 424,412,2025-07-24T12:49:47,True
+425,Antibiotics - 425,446,2024-04-10T18:11:07,True
+426,Vitamins & Supplements - 426,447,2024-03-03T11:11:01,True
+427,Dermatology - 427,66,2024-05-06T17:16:34,True
+428,Cardiovascular - 428,116,2025-12-16T16:58:56,True
+429,Antibiotics - 429,93,2025-10-15T10:52:48,True
+430,Respiratory - 430,285,2024-11-06T16:44:12,True
+431,Antibiotics - 431,21,2024-04-14T14:26:01,True
+432,Vitamins & Supplements - 432,3,2024-01-12T11:47:10,True
+433,Gastrointestinal - 433,199,2025-04-28T09:00:20,True
+434,Analgesics & Pain Relief - 434,335,2024-05-08T16:57:15,True
+435,Analgesics & Pain Relief - 435,364,2024-07-27T20:39:10,True
+436,Analgesics & Pain Relief - 436,62,2025-07-18T19:27:10,True
+437,First Aid - 437,447,2024-04-06T16:56:13,True
+438,Respiratory - 438,209,2024-08-14T19:05:32,True
+439,Gastrointestinal - 439,117,2025-03-13T15:06:15,True
+440,Respiratory - 440,313,2024-01-03T11:09:42,True
+441,Vitamins & Supplements - 441,206,2024-12-20T10:06:43,True
+442,Cardiovascular - 442,358,2024-08-24T17:46:54,True
+443,Antibiotics - 443,542,2025-06-23T20:47:44,True
+444,Analgesics & Pain Relief - 444,416,2025-08-13T09:41:02,True
+445,Respiratory - 445,380,2024-01-21T16:33:06,True
+446,Dermatology - 446,254,2024-10-05T15:38:28,True
+447,Respiratory - 447,120,2025-09-23T09:22:37,True
+448,Respiratory - 448,547,2024-09-23T12:22:42,True
+449,First Aid - 449,183,2024-12-27T19:09:44,True
+450,Respiratory - 450,386,2025-12-27T14:34:24,True
+451,Vitamins & Supplements - 451,363,2024-03-11T15:13:19,True
+452,Vitamins & Supplements - 452,352,2025-04-20T12:42:27,True
+453,Analgesics & Pain Relief - 453,456,2025-03-19T17:01:28,True
+454,Dermatology - 454,487,2024-10-14T14:37:19,True
+455,Antibiotics - 455,449,2025-08-01T16:00:35,True
+456,First Aid - 456,315,2025-05-18T13:43:39,True
+457,Dermatology - 457,416,2025-02-17T11:51:38,True
+458,Dermatology - 458,116,2025-08-08T12:53:29,True
+459,Gastrointestinal - 459,212,2025-12-19T16:51:34,True
+460,Antibiotics - 460,390,2025-10-18T08:16:18,True
+461,Gastrointestinal - 461,11,2024-11-21T16:51:25,True
+462,Analgesics & Pain Relief - 462,335,2024-02-27T08:10:25,True
+463,Vitamins & Supplements - 463,470,2024-07-13T12:35:38,True
+464,Analgesics & Pain Relief - 464,19,2024-05-18T12:22:33,True
+465,Antibiotics - 465,227,2024-09-18T17:35:12,True
+466,Analgesics & Pain Relief - 466,338,2025-05-22T16:35:15,True
+467,First Aid - 467,269,2024-09-12T14:55:15,True
+468,Analgesics & Pain Relief - 468,153,2025-06-01T08:00:13,True
+469,Analgesics & Pain Relief - 469,354,2025-11-13T09:37:56,True
+470,Gastrointestinal - 470,209,2024-06-13T12:06:35,True
+471,Dermatology - 471,197,2025-09-22T12:27:28,True
+472,Analgesics & Pain Relief - 472,515,2025-12-01T18:07:33,True
+473,First Aid - 473,166,2025-11-26T08:01:07,True
+474,Cardiovascular - 474,438,2025-12-04T08:14:17,True
+475,Dermatology - 475,311,2025-03-20T17:02:25,True
+476,First Aid - 476,281,2025-07-18T14:52:58,True
+477,Gastrointestinal - 477,169,2025-01-13T10:50:49,True
+478,Vitamins & Supplements - 478,120,2025-06-20T17:27:55,True
+479,First Aid - 479,141,2025-07-25T10:11:54,True
+480,Vitamins & Supplements - 480,128,2024-06-08T11:59:40,True
+481,Dermatology - 481,451,2024-05-16T12:30:57,True
+482,Respiratory - 482,311,2025-11-26T13:23:38,True
+483,Cardiovascular - 483,448,2025-03-04T11:34:14,True
+484,Gastrointestinal - 484,7,2025-02-05T12:21:46,True
+485,Gastrointestinal - 485,224,2024-03-23T17:03:00,True
+486,Cardiovascular - 486,404,2024-11-06T09:59:55,True
+487,Antibiotics - 487,484,2024-11-05T18:29:31,True
+488,Vitamins & Supplements - 488,436,2025-09-21T16:46:15,True
+489,Gastrointestinal - 489,329,2025-09-11T10:11:37,True
+490,Dermatology - 490,175,2025-03-23T13:06:25,True
+491,Antibiotics - 491,515,2025-08-12T17:05:28,True
+492,Antibiotics - 492,57,2025-01-17T18:03:23,True
+493,Dermatology - 493,95,2025-08-15T12:17:30,True
+494,Cardiovascular - 494,375,2024-06-25T10:19:28,True
+495,Dermatology - 495,115,2025-02-12T17:19:44,True
+496,First Aid - 496,205,2025-05-28T17:13:02,True
+497,Gastrointestinal - 497,237,2025-09-18T08:14:12,True
+498,Antibiotics - 498,543,2024-07-03T20:04:44,True
+499,Cardiovascular - 499,246,2024-07-02T16:30:32,True
+500,Vitamins & Supplements - 500,70,2025-03-16T16:30:12,True
+501,Analgesics & Pain Relief - 501,293,2025-03-11T18:04:20,True
+502,Vitamins & Supplements - 502,126,2025-12-10T14:20:53,True
+503,Cardiovascular - 503,336,2024-08-26T20:50:32,True
+504,Analgesics & Pain Relief - 504,104,2024-06-14T18:30:12,True
+505,Dermatology - 505,286,2025-08-03T19:30:28,True
+506,Respiratory - 506,167,2025-10-03T12:14:13,True
+507,Respiratory - 507,140,2025-07-21T20:27:16,True
+508,Gastrointestinal - 508,54,2024-12-02T09:03:34,True
+509,Gastrointestinal - 509,492,2024-10-01T16:57:14,True
+510,Gastrointestinal - 510,168,2024-12-03T16:38:26,True
+511,Dermatology - 511,295,2024-11-10T14:17:47,True
+512,Dermatology - 512,469,2025-08-06T16:58:56,True
+513,Gastrointestinal - 513,503,2025-11-23T17:22:48,True
+514,Vitamins & Supplements - 514,531,2024-10-02T10:09:04,True
+515,First Aid - 515,474,2024-03-10T16:34:12,True
+516,First Aid - 516,84,2025-01-11T20:37:33,True
+517,Dermatology - 517,269,2025-02-26T12:50:59,True
+518,Cardiovascular - 518,436,2025-03-17T14:33:06,True
+519,Antibiotics - 519,187,2024-11-01T11:33:32,True
+520,Gastrointestinal - 520,445,2024-02-19T11:39:31,True
+521,Antibiotics - 521,282,2025-10-01T08:47:50,True
+522,Vitamins & Supplements - 522,108,2025-08-19T08:23:20,True
+523,Vitamins & Supplements - 523,436,2025-10-07T11:52:50,True
+524,Gastrointestinal - 524,92,2025-12-17T16:48:01,True
+525,First Aid - 525,13,2025-04-05T18:25:01,True
+526,Antibiotics - 526,125,2024-10-03T08:15:54,True
+527,Vitamins & Supplements - 527,486,2025-03-21T13:22:07,True
+528,Cardiovascular - 528,437,2024-10-02T19:33:20,True
+529,Antibiotics - 529,515,2024-01-10T13:03:56,True
+530,Vitamins & Supplements - 530,307,2024-12-15T11:25:04,True
+531,Gastrointestinal - 531,544,2025-04-13T20:25:08,True
+532,First Aid - 532,81,2024-12-12T16:46:38,True
+533,Respiratory - 533,252,2024-06-08T20:39:03,True
+534,Analgesics & Pain Relief - 534,342,2025-07-03T13:40:18,True
+535,First Aid - 535,253,2024-11-11T14:52:24,True
+536,Cardiovascular - 536,500,2024-06-12T20:56:07,True
+537,Antibiotics - 537,389,2025-04-13T18:39:02,True
+538,Vitamins & Supplements - 538,521,2024-08-16T10:29:01,True
+539,Vitamins & Supplements - 539,432,2025-07-01T13:58:15,True
+540,Dermatology - 540,182,2024-07-26T12:16:04,True
+541,Respiratory - 541,79,2024-02-20T19:29:20,True
+542,Cardiovascular - 542,343,2025-07-27T12:02:23,True
+543,Antibiotics - 543,39,2024-11-18T16:00:08,True
+544,First Aid - 544,220,2024-05-05T15:26:13,True
+545,Respiratory - 545,138,2024-05-21T12:43:17,True
+546,First Aid - 546,119,2024-10-11T20:13:59,True
+547,Analgesics & Pain Relief - 547,422,2024-07-16T14:16:44,True
+548,Analgesics & Pain Relief - 548,178,2024-09-18T20:54:17,True
+549,First Aid - 549,277,2025-06-04T19:15:53,True
+550,Gastrointestinal - 550,465,2024-08-04T15:17:56,True
+551,Cardiovascular - 551,22,2025-09-18T09:50:06,True
+552,Respiratory - 552,278,2024-04-10T11:37:32,True
+553,Antibiotics - 553,520,2025-04-18T15:28:41,True
+554,Gastrointestinal - 554,525,2024-12-08T11:25:18,True
+555,First Aid - 555,461,2024-05-04T11:45:00,True
+556,Analgesics & Pain Relief - 556,116,2025-04-17T18:55:26,True
+557,Analgesics & Pain Relief - 557,191,2024-07-05T13:16:50,True
+558,Vitamins & Supplements - 558,41,2025-02-21T10:55:55,True
+559,Cardiovascular - 559,88,2024-12-21T13:28:29,True
+560,Vitamins & Supplements - 560,8,2025-05-03T08:03:45,True
+561,First Aid - 561,279,2024-10-07T10:17:23,True
+562,Cardiovascular - 562,78,2024-10-16T19:39:19,True
+563,Antibiotics - 563,148,2024-05-18T15:01:37,True
+564,First Aid - 564,155,2025-05-28T17:26:13,True
+565,Vitamins & Supplements - 565,182,2025-02-16T12:50:09,True
+566,Vitamins & Supplements - 566,297,2024-05-27T19:41:43,True
+567,Cardiovascular - 567,177,2025-02-04T16:53:39,True
+568,Analgesics & Pain Relief - 568,37,2024-05-13T16:27:06,True
+569,Respiratory - 569,221,2024-08-01T10:34:25,True
+570,First Aid - 570,174,2024-03-25T08:02:38,True
+571,Gastrointestinal - 571,243,2025-07-24T10:04:36,True
+572,Gastrointestinal - 572,202,2025-09-19T08:00:21,True
+573,First Aid - 573,488,2025-01-02T09:31:15,True
+574,Vitamins & Supplements - 574,342,2024-01-26T15:13:39,True
+575,First Aid - 575,92,2024-01-21T15:10:10,True
+576,Antibiotics - 576,112,2024-09-27T14:36:02,True
+577,First Aid - 577,78,2025-08-05T10:07:01,True
+578,Dermatology - 578,324,2025-12-14T20:07:31,True
+579,Antibiotics - 579,172,2024-08-27T08:29:16,True
+580,Dermatology - 580,251,2025-01-05T11:48:19,True
+581,Dermatology - 581,135,2024-06-05T09:41:25,True
+582,Analgesics & Pain Relief - 582,148,2025-03-07T17:17:48,True
+583,Antibiotics - 583,146,2024-10-09T12:47:52,True
+584,First Aid - 584,486,2024-07-20T08:13:43,True
+585,Vitamins & Supplements - 585,431,2025-06-04T11:59:08,True
+586,First Aid - 586,419,2024-11-15T17:52:19,True
+587,Analgesics & Pain Relief - 587,138,2025-06-27T19:22:37,True
+588,Gastrointestinal - 588,115,2025-01-05T09:06:36,True
+589,Antibiotics - 589,328,2024-03-26T14:34:56,True
+590,Respiratory - 590,293,2025-05-16T16:27:50,True
+591,Respiratory - 591,130,2024-08-13T08:58:00,True
+592,Dermatology - 592,320,2025-05-01T16:47:14,True
+593,First Aid - 593,91,2024-10-02T15:18:39,True
+594,Vitamins & Supplements - 594,88,2025-05-02T08:25:36,True
+595,Cardiovascular - 595,403,2024-04-26T13:14:17,True
+596,Dermatology - 596,523,2025-05-15T08:32:10,True
+597,Antibiotics - 597,230,2025-06-09T14:11:09,True
+598,Analgesics & Pain Relief - 598,173,2024-03-07T19:46:31,True
+599,Vitamins & Supplements - 599,15,2025-06-01T11:48:13,True
+600,Analgesics & Pain Relief - 600,63,2024-01-18T16:24:15,True
+601,Dermatology - 601,413,2025-04-19T09:39:00,True
+602,Analgesics & Pain Relief - 602,529,2024-02-09T09:25:51,True
+603,Analgesics & Pain Relief - 603,24,2024-07-19T20:47:40,True
+604,Vitamins & Supplements - 604,241,2024-11-16T11:59:29,True
+605,First Aid - 605,46,2025-01-18T20:46:21,True
+606,Dermatology - 606,85,2025-08-09T14:15:02,True
+607,Analgesics & Pain Relief - 607,24,2025-11-08T11:27:07,True
+608,Antibiotics - 608,251,2025-02-04T16:56:05,True
+609,Gastrointestinal - 609,95,2025-12-09T13:32:09,True
+610,Dermatology - 610,154,2024-04-21T12:51:54,True
+611,Analgesics & Pain Relief - 611,71,2025-04-11T20:15:17,True
+612,Respiratory - 612,421,2024-08-11T14:36:38,True
+613,Dermatology - 613,291,2025-07-14T15:09:45,True
+614,Analgesics & Pain Relief - 614,98,2024-09-05T12:56:41,True
+615,Analgesics & Pain Relief - 615,143,2024-12-17T10:58:08,True
+616,Cardiovascular - 616,526,2025-10-25T12:00:09,True
+617,Respiratory - 617,145,2024-09-12T16:56:04,True
+618,First Aid - 618,269,2025-03-15T11:50:58,True
+619,Gastrointestinal - 619,198,2025-05-06T11:22:29,True
+620,Analgesics & Pain Relief - 620,9,2025-02-06T17:06:49,True

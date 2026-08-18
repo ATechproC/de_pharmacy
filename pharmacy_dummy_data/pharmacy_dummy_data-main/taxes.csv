@@ -1,0 +1,511 @@
+id,name,pharmacy_id,description,total,year_month_value,year
+1,TVA (Taxe sur la Valeur Ajoutée),278,Declaration fiscale Trimestre 2,11153.21,2026-04,2026
+2,Taxe Professionnelle,479,Declaration fiscale Trimestre 4,10539.59,2026-09,2026
+3,Taxe Professionnelle,270,Declaration fiscale Trimestre 4,3648.62,2026-05,2026
+4,TVA (Taxe sur la Valeur Ajoutée),545,Declaration fiscale Trimestre 4,9624.53,2026-08,2026
+5,Impôt sur les Sociétés (IS),287,Declaration fiscale Trimestre 4,14485.04,2026-04,2026
+6,Impôt sur les Sociétés (IS),341,Declaration fiscale Trimestre 4,1843.45,2026-08,2026
+7,Taxe Services Communaux (TSC),190,Declaration fiscale Trimestre 4,4109.06,2026-12,2026
+8,Taxe Services Communaux (TSC),207,Declaration fiscale Trimestre 1,13163.04,2026-11,2026
+9,Cotisation Minimale,27,Declaration fiscale Trimestre 4,1296.75,2026-11,2026
+10,Taxe Professionnelle,435,Declaration fiscale Trimestre 4,7788.92,2026-04,2026
+11,Taxe Professionnelle,111,Declaration fiscale Trimestre 3,5447.94,2026-11,2026
+12,Taxe Professionnelle,450,Declaration fiscale Trimestre 2,8918.81,2026-03,2026
+13,Taxe Services Communaux (TSC),463,Declaration fiscale Trimestre 1,4212.25,2026-10,2026
+14,Impôt sur les Sociétés (IS),345,Declaration fiscale Trimestre 4,1440.14,2026-02,2026
+15,Impôt sur les Sociétés (IS),200,Declaration fiscale Trimestre 2,3804.5,2026-07,2026
+16,TVA (Taxe sur la Valeur Ajoutée),409,Declaration fiscale Trimestre 2,2088.42,2026-10,2026
+17,Taxe Services Communaux (TSC),463,Declaration fiscale Trimestre 3,11411.0,2026-09,2026
+18,Cotisation Minimale,293,Declaration fiscale Trimestre 1,12674.73,2026-05,2026
+19,Taxe Professionnelle,70,Declaration fiscale Trimestre 1,14652.61,2026-05,2026
+20,Cotisation Minimale,498,Declaration fiscale Trimestre 3,6994.83,2026-11,2026
+21,TVA (Taxe sur la Valeur Ajoutée),71,Declaration fiscale Trimestre 4,10804.47,2026-12,2026
+22,Taxe Services Communaux (TSC),453,Declaration fiscale Trimestre 2,12375.44,2026-11,2026
+23,Taxe Professionnelle,506,Declaration fiscale Trimestre 2,5951.45,2026-10,2026
+24,TVA (Taxe sur la Valeur Ajoutée),506,Declaration fiscale Trimestre 1,10775.74,2026-12,2026
+25,Taxe Services Communaux (TSC),547,Declaration fiscale Trimestre 2,12234.78,2026-10,2026
+26,Cotisation Minimale,524,Declaration fiscale Trimestre 2,14209.13,2026-08,2026
+27,Taxe Professionnelle,533,Declaration fiscale Trimestre 1,13220.11,2026-12,2026
+28,Taxe Professionnelle,414,Declaration fiscale Trimestre 2,4351.03,2026-02,2026
+29,Taxe Professionnelle,84,Declaration fiscale Trimestre 3,11895.53,2026-09,2026
+30,Taxe Services Communaux (TSC),268,Declaration fiscale Trimestre 4,7330.63,2026-03,2026
+31,Impôt sur les Sociétés (IS),422,Declaration fiscale Trimestre 2,10965.1,2026-05,2026
+32,Taxe Professionnelle,337,Declaration fiscale Trimestre 1,5608.91,2026-03,2026
+33,Taxe Services Communaux (TSC),478,Declaration fiscale Trimestre 3,7612.59,2026-11,2026
+34,TVA (Taxe sur la Valeur Ajoutée),384,Declaration fiscale Trimestre 3,4078.63,2026-09,2026
+35,Taxe Professionnelle,8,Declaration fiscale Trimestre 1,2088.6,2026-05,2026
+36,Taxe Professionnelle,230,Declaration fiscale Trimestre 3,12010.47,2026-10,2026
+37,Taxe Services Communaux (TSC),97,Declaration fiscale Trimestre 3,12994.83,2026-04,2026
+38,Impôt sur les Sociétés (IS),198,Declaration fiscale Trimestre 1,11876.38,2026-12,2026
+39,Taxe Services Communaux (TSC),183,Declaration fiscale Trimestre 3,9191.63,2026-04,2026
+40,Cotisation Minimale,304,Declaration fiscale Trimestre 1,11780.29,2026-09,2026
+41,Taxe Services Communaux (TSC),430,Declaration fiscale Trimestre 3,7477.1,2026-10,2026
+42,Impôt sur les Sociétés (IS),240,Declaration fiscale Trimestre 4,4859.59,2026-09,2026
+43,Taxe Professionnelle,155,Declaration fiscale Trimestre 1,7374.7,2026-02,2026
+44,Impôt sur les Sociétés (IS),49,Declaration fiscale Trimestre 3,5886.43,2026-02,2026
+45,Taxe Professionnelle,154,Declaration fiscale Trimestre 3,7540.98,2026-03,2026
+46,Taxe Professionnelle,173,Declaration fiscale Trimestre 1,3704.78,2026-01,2026
+47,Taxe Professionnelle,476,Declaration fiscale Trimestre 1,1081.59,2026-12,2026
+48,Impôt sur les Sociétés (IS),11,Declaration fiscale Trimestre 4,4310.83,2026-09,2026
+49,Cotisation Minimale,237,Declaration fiscale Trimestre 3,5033.93,2026-03,2026
+50,Taxe Services Communaux (TSC),194,Declaration fiscale Trimestre 2,11743.45,2026-01,2026
+51,TVA (Taxe sur la Valeur Ajoutée),543,Declaration fiscale Trimestre 2,9939.48,2026-01,2026
+52,Impôt sur les Sociétés (IS),125,Declaration fiscale Trimestre 2,784.82,2026-05,2026
+53,TVA (Taxe sur la Valeur Ajoutée),1,Declaration fiscale Trimestre 3,4902.7,2026-07,2026
+54,TVA (Taxe sur la Valeur Ajoutée),287,Declaration fiscale Trimestre 1,8765.69,2026-08,2026
+55,Impôt sur les Sociétés (IS),2,Declaration fiscale Trimestre 4,4257.21,2026-07,2026
+56,Impôt sur les Sociétés (IS),112,Declaration fiscale Trimestre 1,7737.1,2026-02,2026
+57,Taxe Professionnelle,295,Declaration fiscale Trimestre 1,3520.37,2026-03,2026
+58,Taxe Professionnelle,382,Declaration fiscale Trimestre 1,1353.11,2026-12,2026
+59,Taxe Professionnelle,184,Declaration fiscale Trimestre 2,13195.32,2026-03,2026
+60,TVA (Taxe sur la Valeur Ajoutée),223,Declaration fiscale Trimestre 2,13909.97,2026-03,2026
+61,Impôt sur les Sociétés (IS),520,Declaration fiscale Trimestre 1,4390.2,2026-09,2026
+62,Taxe Services Communaux (TSC),240,Declaration fiscale Trimestre 3,736.09,2026-03,2026
+63,TVA (Taxe sur la Valeur Ajoutée),276,Declaration fiscale Trimestre 1,6009.94,2026-03,2026
+64,TVA (Taxe sur la Valeur Ajoutée),87,Declaration fiscale Trimestre 3,3510.23,2026-02,2026
+65,TVA (Taxe sur la Valeur Ajoutée),1,Declaration fiscale Trimestre 3,9238.14,2026-03,2026
+66,Impôt sur les Sociétés (IS),184,Declaration fiscale Trimestre 1,12016.55,2026-09,2026
+67,Taxe Professionnelle,332,Declaration fiscale Trimestre 1,10733.11,2026-11,2026
+68,Impôt sur les Sociétés (IS),126,Declaration fiscale Trimestre 4,14169.64,2026-10,2026
+69,TVA (Taxe sur la Valeur Ajoutée),498,Declaration fiscale Trimestre 4,3775.0,2026-09,2026
+70,TVA (Taxe sur la Valeur Ajoutée),106,Declaration fiscale Trimestre 1,5347.34,2026-11,2026
+71,TVA (Taxe sur la Valeur Ajoutée),446,Declaration fiscale Trimestre 4,14992.46,2026-04,2026
+72,Impôt sur les Sociétés (IS),113,Declaration fiscale Trimestre 1,14097.87,2026-02,2026
+73,Cotisation Minimale,535,Declaration fiscale Trimestre 2,12264.05,2026-05,2026
+74,Impôt sur les Sociétés (IS),357,Declaration fiscale Trimestre 4,14294.18,2026-07,2026
+75,TVA (Taxe sur la Valeur Ajoutée),27,Declaration fiscale Trimestre 2,9551.78,2026-11,2026
+76,Taxe Services Communaux (TSC),196,Declaration fiscale Trimestre 4,11547.04,2026-12,2026
+77,Cotisation Minimale,210,Declaration fiscale Trimestre 4,2136.03,2026-03,2026
+78,Taxe Professionnelle,53,Declaration fiscale Trimestre 3,5805.28,2026-11,2026
+79,Taxe Services Communaux (TSC),97,Declaration fiscale Trimestre 4,6781.22,2026-07,2026
+80,Taxe Professionnelle,476,Declaration fiscale Trimestre 3,12097.76,2026-02,2026
+81,TVA (Taxe sur la Valeur Ajoutée),100,Declaration fiscale Trimestre 2,521.69,2026-12,2026
+82,Taxe Services Communaux (TSC),134,Declaration fiscale Trimestre 3,12007.81,2026-10,2026
+83,Taxe Professionnelle,317,Declaration fiscale Trimestre 4,12126.24,2026-04,2026
+84,Taxe Professionnelle,17,Declaration fiscale Trimestre 4,8430.98,2026-08,2026
+85,Cotisation Minimale,484,Declaration fiscale Trimestre 4,12446.4,2026-09,2026
+86,Taxe Professionnelle,63,Declaration fiscale Trimestre 2,12324.65,2026-10,2026
+87,Cotisation Minimale,353,Declaration fiscale Trimestre 3,867.49,2026-03,2026
+88,Taxe Professionnelle,414,Declaration fiscale Trimestre 1,6542.78,2026-01,2026
+89,Cotisation Minimale,262,Declaration fiscale Trimestre 3,10352.88,2026-07,2026
+90,Impôt sur les Sociétés (IS),443,Declaration fiscale Trimestre 2,2656.26,2026-02,2026
+91,Impôt sur les Sociétés (IS),531,Declaration fiscale Trimestre 1,9419.07,2026-09,2026
+92,Taxe Services Communaux (TSC),14,Declaration fiscale Trimestre 3,5118.44,2026-01,2026
+93,Cotisation Minimale,191,Declaration fiscale Trimestre 4,8329.47,2026-11,2026
+94,Taxe Services Communaux (TSC),37,Declaration fiscale Trimestre 3,10023.38,2026-05,2026
+95,Impôt sur les Sociétés (IS),473,Declaration fiscale Trimestre 1,12682.63,2026-07,2026
+96,Cotisation Minimale,127,Declaration fiscale Trimestre 2,6123.13,2026-03,2026
+97,TVA (Taxe sur la Valeur Ajoutée),322,Declaration fiscale Trimestre 2,3497.69,2026-09,2026
+98,Taxe Professionnelle,197,Declaration fiscale Trimestre 3,12308.64,2026-06,2026
+99,Cotisation Minimale,142,Declaration fiscale Trimestre 4,9100.13,2026-01,2026
+100,Cotisation Minimale,202,Declaration fiscale Trimestre 2,1944.64,2026-09,2026
+101,Taxe Professionnelle,52,Declaration fiscale Trimestre 3,10376.34,2026-12,2026
+102,Impôt sur les Sociétés (IS),410,Declaration fiscale Trimestre 3,5202.72,2026-01,2026
+103,TVA (Taxe sur la Valeur Ajoutée),194,Declaration fiscale Trimestre 3,3980.7,2026-09,2026
+104,Cotisation Minimale,367,Declaration fiscale Trimestre 4,5475.58,2026-06,2026
+105,Impôt sur les Sociétés (IS),81,Declaration fiscale Trimestre 4,11253.96,2026-10,2026
+106,Taxe Professionnelle,354,Declaration fiscale Trimestre 1,3916.17,2026-12,2026
+107,Impôt sur les Sociétés (IS),144,Declaration fiscale Trimestre 1,8975.76,2026-05,2026
+108,Impôt sur les Sociétés (IS),375,Declaration fiscale Trimestre 3,14121.14,2026-05,2026
+109,Taxe Professionnelle,539,Declaration fiscale Trimestre 2,1270.9,2026-02,2026
+110,Taxe Services Communaux (TSC),292,Declaration fiscale Trimestre 3,13574.58,2026-02,2026
+111,Taxe Professionnelle,526,Declaration fiscale Trimestre 2,2281.61,2026-03,2026
+112,Cotisation Minimale,344,Declaration fiscale Trimestre 4,14848.91,2026-11,2026
+113,Taxe Professionnelle,449,Declaration fiscale Trimestre 4,11173.05,2026-05,2026
+114,Impôt sur les Sociétés (IS),329,Declaration fiscale Trimestre 3,543.99,2026-01,2026
+115,Taxe Services Communaux (TSC),545,Declaration fiscale Trimestre 4,10710.37,2026-05,2026
+116,Taxe Services Communaux (TSC),202,Declaration fiscale Trimestre 2,7692.37,2026-02,2026
+117,TVA (Taxe sur la Valeur Ajoutée),345,Declaration fiscale Trimestre 2,5346.55,2026-02,2026
+118,TVA (Taxe sur la Valeur Ajoutée),124,Declaration fiscale Trimestre 3,5840.91,2026-03,2026
+119,TVA (Taxe sur la Valeur Ajoutée),86,Declaration fiscale Trimestre 4,14680.68,2026-04,2026
+120,Impôt sur les Sociétés (IS),378,Declaration fiscale Trimestre 4,3496.81,2026-07,2026
+121,Taxe Services Communaux (TSC),228,Declaration fiscale Trimestre 1,915.77,2026-11,2026
+122,Impôt sur les Sociétés (IS),198,Declaration fiscale Trimestre 2,4932.24,2026-11,2026
+123,TVA (Taxe sur la Valeur Ajoutée),357,Declaration fiscale Trimestre 4,12365.47,2026-01,2026
+124,Taxe Services Communaux (TSC),374,Declaration fiscale Trimestre 3,10829.8,2026-01,2026
+125,Impôt sur les Sociétés (IS),94,Declaration fiscale Trimestre 3,13989.36,2026-10,2026
+126,Taxe Services Communaux (TSC),216,Declaration fiscale Trimestre 3,9361.62,2026-12,2026
+127,Cotisation Minimale,200,Declaration fiscale Trimestre 4,12217.35,2026-03,2026
+128,Taxe Services Communaux (TSC),469,Declaration fiscale Trimestre 3,10561.59,2026-06,2026
+129,Taxe Services Communaux (TSC),126,Declaration fiscale Trimestre 4,13820.97,2026-11,2026
+130,Taxe Services Communaux (TSC),403,Declaration fiscale Trimestre 3,13549.37,2026-06,2026
+131,Impôt sur les Sociétés (IS),14,Declaration fiscale Trimestre 4,3346.88,2026-07,2026
+132,Impôt sur les Sociétés (IS),349,Declaration fiscale Trimestre 4,1895.5,2026-07,2026
+133,TVA (Taxe sur la Valeur Ajoutée),58,Declaration fiscale Trimestre 4,8641.3,2026-02,2026
+134,Taxe Services Communaux (TSC),400,Declaration fiscale Trimestre 2,9313.86,2026-07,2026
+135,Impôt sur les Sociétés (IS),417,Declaration fiscale Trimestre 2,3553.66,2026-03,2026
+136,Taxe Professionnelle,434,Declaration fiscale Trimestre 2,7648.01,2026-05,2026
+137,TVA (Taxe sur la Valeur Ajoutée),353,Declaration fiscale Trimestre 4,2947.36,2026-06,2026
+138,Taxe Professionnelle,509,Declaration fiscale Trimestre 3,6770.89,2026-09,2026
+139,Impôt sur les Sociétés (IS),71,Declaration fiscale Trimestre 4,11105.6,2026-11,2026
+140,Taxe Professionnelle,425,Declaration fiscale Trimestre 1,1913.43,2026-04,2026
+141,Cotisation Minimale,436,Declaration fiscale Trimestre 4,5869.89,2026-08,2026
+142,TVA (Taxe sur la Valeur Ajoutée),377,Declaration fiscale Trimestre 2,4384.79,2026-11,2026
+143,TVA (Taxe sur la Valeur Ajoutée),210,Declaration fiscale Trimestre 3,13977.11,2026-06,2026
+144,TVA (Taxe sur la Valeur Ajoutée),439,Declaration fiscale Trimestre 3,13825.11,2026-12,2026
+145,Cotisation Minimale,57,Declaration fiscale Trimestre 4,1814.65,2026-10,2026
+146,Taxe Services Communaux (TSC),309,Declaration fiscale Trimestre 4,5770.7,2026-05,2026
+147,Impôt sur les Sociétés (IS),463,Declaration fiscale Trimestre 4,4727.02,2026-09,2026
+148,Taxe Professionnelle,385,Declaration fiscale Trimestre 2,9986.19,2026-01,2026
+149,Taxe Professionnelle,442,Declaration fiscale Trimestre 4,2843.12,2026-05,2026
+150,TVA (Taxe sur la Valeur Ajoutée),146,Declaration fiscale Trimestre 1,6960.31,2026-08,2026
+151,Taxe Services Communaux (TSC),345,Declaration fiscale Trimestre 4,6397.89,2026-07,2026
+152,Cotisation Minimale,58,Declaration fiscale Trimestre 4,13711.42,2026-04,2026
+153,Taxe Services Communaux (TSC),163,Declaration fiscale Trimestre 4,10272.94,2026-01,2026
+154,Taxe Professionnelle,424,Declaration fiscale Trimestre 3,10744.87,2026-03,2026
+155,TVA (Taxe sur la Valeur Ajoutée),266,Declaration fiscale Trimestre 4,10534.97,2026-07,2026
+156,Impôt sur les Sociétés (IS),481,Declaration fiscale Trimestre 1,6366.78,2026-07,2026
+157,Taxe Professionnelle,162,Declaration fiscale Trimestre 4,1828.34,2026-01,2026
+158,Taxe Professionnelle,201,Declaration fiscale Trimestre 3,12943.46,2026-12,2026
+159,Impôt sur les Sociétés (IS),348,Declaration fiscale Trimestre 4,2779.56,2026-10,2026
+160,Impôt sur les Sociétés (IS),90,Declaration fiscale Trimestre 4,6571.15,2026-12,2026
+161,Taxe Professionnelle,433,Declaration fiscale Trimestre 1,4658.55,2026-09,2026
+162,TVA (Taxe sur la Valeur Ajoutée),27,Declaration fiscale Trimestre 3,13790.71,2026-09,2026
+163,Cotisation Minimale,73,Declaration fiscale Trimestre 2,3213.9,2026-08,2026
+164,TVA (Taxe sur la Valeur Ajoutée),503,Declaration fiscale Trimestre 1,3472.16,2026-11,2026
+165,TVA (Taxe sur la Valeur Ajoutée),360,Declaration fiscale Trimestre 4,11510.35,2026-04,2026
+166,TVA (Taxe sur la Valeur Ajoutée),349,Declaration fiscale Trimestre 2,12405.85,2026-08,2026
+167,TVA (Taxe sur la Valeur Ajoutée),546,Declaration fiscale Trimestre 3,1482.55,2026-11,2026
+168,Taxe Professionnelle,395,Declaration fiscale Trimestre 1,6080.28,2026-09,2026
+169,Taxe Professionnelle,315,Declaration fiscale Trimestre 3,6367.06,2026-07,2026
+170,TVA (Taxe sur la Valeur Ajoutée),66,Declaration fiscale Trimestre 1,12668.14,2026-10,2026
+171,Cotisation Minimale,452,Declaration fiscale Trimestre 3,8013.18,2026-01,2026
+172,Cotisation Minimale,29,Declaration fiscale Trimestre 3,1013.88,2026-04,2026
+173,Impôt sur les Sociétés (IS),101,Declaration fiscale Trimestre 4,1300.77,2026-05,2026
+174,TVA (Taxe sur la Valeur Ajoutée),207,Declaration fiscale Trimestre 1,6081.11,2026-07,2026
+175,Impôt sur les Sociétés (IS),539,Declaration fiscale Trimestre 3,3068.54,2026-06,2026
+176,TVA (Taxe sur la Valeur Ajoutée),14,Declaration fiscale Trimestre 3,11819.09,2026-07,2026
+177,Cotisation Minimale,7,Declaration fiscale Trimestre 3,12706.78,2026-01,2026
+178,Impôt sur les Sociétés (IS),536,Declaration fiscale Trimestre 4,5531.23,2026-08,2026
+179,Impôt sur les Sociétés (IS),55,Declaration fiscale Trimestre 2,4641.6,2026-12,2026
+180,Taxe Professionnelle,514,Declaration fiscale Trimestre 4,1186.37,2026-10,2026
+181,Cotisation Minimale,146,Declaration fiscale Trimestre 4,8607.57,2026-04,2026
+182,Impôt sur les Sociétés (IS),289,Declaration fiscale Trimestre 3,10356.85,2026-04,2026
+183,Cotisation Minimale,24,Declaration fiscale Trimestre 3,12921.27,2026-06,2026
+184,Taxe Professionnelle,64,Declaration fiscale Trimestre 1,8953.45,2026-08,2026
+185,Impôt sur les Sociétés (IS),136,Declaration fiscale Trimestre 4,1309.14,2026-10,2026
+186,Impôt sur les Sociétés (IS),456,Declaration fiscale Trimestre 2,12483.96,2026-05,2026
+187,Taxe Services Communaux (TSC),435,Declaration fiscale Trimestre 2,6631.46,2026-06,2026
+188,Impôt sur les Sociétés (IS),114,Declaration fiscale Trimestre 2,7849.66,2026-01,2026
+189,Taxe Services Communaux (TSC),201,Declaration fiscale Trimestre 4,9336.07,2026-02,2026
+190,Taxe Professionnelle,92,Declaration fiscale Trimestre 4,3786.78,2026-07,2026
+191,Cotisation Minimale,361,Declaration fiscale Trimestre 4,8353.53,2026-04,2026
+192,Taxe Services Communaux (TSC),342,Declaration fiscale Trimestre 4,786.81,2026-04,2026
+193,TVA (Taxe sur la Valeur Ajoutée),118,Declaration fiscale Trimestre 3,10214.63,2026-12,2026
+194,Taxe Professionnelle,277,Declaration fiscale Trimestre 2,1968.16,2026-12,2026
+195,Taxe Professionnelle,182,Declaration fiscale Trimestre 2,10958.64,2026-07,2026
+196,Taxe Professionnelle,127,Declaration fiscale Trimestre 2,4075.87,2026-07,2026
+197,Taxe Professionnelle,379,Declaration fiscale Trimestre 4,1508.85,2026-04,2026
+198,TVA (Taxe sur la Valeur Ajoutée),331,Declaration fiscale Trimestre 4,4789.42,2026-03,2026
+199,TVA (Taxe sur la Valeur Ajoutée),225,Declaration fiscale Trimestre 4,238.56,2026-03,2026
+200,Taxe Professionnelle,544,Declaration fiscale Trimestre 4,11544.48,2026-09,2026
+201,Cotisation Minimale,460,Declaration fiscale Trimestre 1,2301.92,2026-11,2026
+202,Impôt sur les Sociétés (IS),412,Declaration fiscale Trimestre 3,12015.7,2026-05,2026
+203,Taxe Professionnelle,123,Declaration fiscale Trimestre 1,7162.16,2026-06,2026
+204,Cotisation Minimale,57,Declaration fiscale Trimestre 4,639.65,2026-11,2026
+205,Cotisation Minimale,395,Declaration fiscale Trimestre 1,8327.4,2026-11,2026
+206,Taxe Services Communaux (TSC),314,Declaration fiscale Trimestre 3,3571.81,2026-07,2026
+207,Cotisation Minimale,232,Declaration fiscale Trimestre 3,5586.81,2026-06,2026
+208,Taxe Services Communaux (TSC),73,Declaration fiscale Trimestre 4,10575.04,2026-11,2026
+209,Impôt sur les Sociétés (IS),436,Declaration fiscale Trimestre 2,3839.09,2026-02,2026
+210,Taxe Services Communaux (TSC),84,Declaration fiscale Trimestre 1,11305.19,2026-01,2026
+211,TVA (Taxe sur la Valeur Ajoutée),249,Declaration fiscale Trimestre 2,3353.17,2026-11,2026
+212,Taxe Professionnelle,23,Declaration fiscale Trimestre 2,13378.68,2026-03,2026
+213,Taxe Professionnelle,438,Declaration fiscale Trimestre 3,6729.38,2026-08,2026
+214,Cotisation Minimale,89,Declaration fiscale Trimestre 4,9000.77,2026-01,2026
+215,Taxe Professionnelle,351,Declaration fiscale Trimestre 1,3267.43,2026-01,2026
+216,Impôt sur les Sociétés (IS),132,Declaration fiscale Trimestre 1,6125.17,2026-12,2026
+217,Cotisation Minimale,352,Declaration fiscale Trimestre 1,4263.38,2026-09,2026
+218,Cotisation Minimale,339,Declaration fiscale Trimestre 1,9501.53,2026-05,2026
+219,Taxe Services Communaux (TSC),539,Declaration fiscale Trimestre 2,8853.89,2026-11,2026
+220,TVA (Taxe sur la Valeur Ajoutée),320,Declaration fiscale Trimestre 2,9570.42,2026-02,2026
+221,Cotisation Minimale,355,Declaration fiscale Trimestre 4,3658.91,2026-08,2026
+222,Impôt sur les Sociétés (IS),396,Declaration fiscale Trimestre 4,14062.27,2026-12,2026
+223,Taxe Services Communaux (TSC),409,Declaration fiscale Trimestre 2,9312.98,2026-08,2026
+224,TVA (Taxe sur la Valeur Ajoutée),500,Declaration fiscale Trimestre 2,7183.33,2026-01,2026
+225,Cotisation Minimale,464,Declaration fiscale Trimestre 4,4501.4,2026-04,2026
+226,Impôt sur les Sociétés (IS),238,Declaration fiscale Trimestre 3,449.53,2026-07,2026
+227,Taxe Professionnelle,381,Declaration fiscale Trimestre 4,653.17,2026-09,2026
+228,Impôt sur les Sociétés (IS),357,Declaration fiscale Trimestre 3,2623.87,2026-05,2026
+229,Impôt sur les Sociétés (IS),525,Declaration fiscale Trimestre 4,9504.44,2026-04,2026
+230,TVA (Taxe sur la Valeur Ajoutée),49,Declaration fiscale Trimestre 3,3654.41,2026-03,2026
+231,TVA (Taxe sur la Valeur Ajoutée),357,Declaration fiscale Trimestre 3,10353.39,2026-09,2026
+232,Cotisation Minimale,271,Declaration fiscale Trimestre 2,297.62,2026-08,2026
+233,Cotisation Minimale,436,Declaration fiscale Trimestre 1,13672.97,2026-02,2026
+234,Taxe Services Communaux (TSC),377,Declaration fiscale Trimestre 2,14996.35,2026-01,2026
+235,Cotisation Minimale,370,Declaration fiscale Trimestre 4,6881.25,2026-04,2026
+236,TVA (Taxe sur la Valeur Ajoutée),30,Declaration fiscale Trimestre 3,2884.38,2026-07,2026
+237,Cotisation Minimale,528,Declaration fiscale Trimestre 2,9113.75,2026-01,2026
+238,Impôt sur les Sociétés (IS),299,Declaration fiscale Trimestre 3,9552.43,2026-07,2026
+239,Taxe Professionnelle,527,Declaration fiscale Trimestre 1,13741.12,2026-11,2026
+240,Taxe Professionnelle,421,Declaration fiscale Trimestre 2,3926.27,2026-06,2026
+241,TVA (Taxe sur la Valeur Ajoutée),397,Declaration fiscale Trimestre 4,7641.4,2026-11,2026
+242,Taxe Services Communaux (TSC),64,Declaration fiscale Trimestre 3,9526.84,2026-05,2026
+243,Impôt sur les Sociétés (IS),257,Declaration fiscale Trimestre 3,11850.49,2026-12,2026
+244,Taxe Professionnelle,380,Declaration fiscale Trimestre 2,14176.41,2026-10,2026
+245,TVA (Taxe sur la Valeur Ajoutée),294,Declaration fiscale Trimestre 1,8464.79,2026-10,2026
+246,Impôt sur les Sociétés (IS),178,Declaration fiscale Trimestre 1,9832.18,2026-05,2026
+247,Taxe Professionnelle,101,Declaration fiscale Trimestre 1,5329.19,2026-10,2026
+248,Taxe Services Communaux (TSC),534,Declaration fiscale Trimestre 4,12151.98,2026-08,2026
+249,Impôt sur les Sociétés (IS),390,Declaration fiscale Trimestre 1,8336.79,2026-12,2026
+250,TVA (Taxe sur la Valeur Ajoutée),394,Declaration fiscale Trimestre 3,11051.59,2026-05,2026
+251,Impôt sur les Sociétés (IS),107,Declaration fiscale Trimestre 4,13525.41,2026-02,2026
+252,Taxe Services Communaux (TSC),320,Declaration fiscale Trimestre 1,642.66,2026-11,2026
+253,Taxe Services Communaux (TSC),199,Declaration fiscale Trimestre 2,6291.14,2026-07,2026
+254,Impôt sur les Sociétés (IS),434,Declaration fiscale Trimestre 2,13992.03,2026-03,2026
+255,Taxe Professionnelle,349,Declaration fiscale Trimestre 4,8233.95,2026-01,2026
+256,Impôt sur les Sociétés (IS),239,Declaration fiscale Trimestre 3,7312.17,2026-07,2026
+257,Taxe Services Communaux (TSC),401,Declaration fiscale Trimestre 4,13542.46,2026-07,2026
+258,TVA (Taxe sur la Valeur Ajoutée),225,Declaration fiscale Trimestre 2,13007.96,2026-07,2026
+259,Taxe Professionnelle,284,Declaration fiscale Trimestre 3,8513.48,2026-02,2026
+260,Impôt sur les Sociétés (IS),282,Declaration fiscale Trimestre 4,9246.72,2026-02,2026
+261,Impôt sur les Sociétés (IS),272,Declaration fiscale Trimestre 1,8263.26,2026-09,2026
+262,TVA (Taxe sur la Valeur Ajoutée),421,Declaration fiscale Trimestre 2,10419.79,2026-06,2026
+263,Taxe Services Communaux (TSC),145,Declaration fiscale Trimestre 1,7763.49,2026-08,2026
+264,Taxe Services Communaux (TSC),113,Declaration fiscale Trimestre 1,5730.97,2026-04,2026
+265,TVA (Taxe sur la Valeur Ajoutée),169,Declaration fiscale Trimestre 2,3542.84,2026-07,2026
+266,Cotisation Minimale,21,Declaration fiscale Trimestre 3,6796.41,2026-10,2026
+267,Taxe Professionnelle,503,Declaration fiscale Trimestre 2,2107.66,2026-04,2026
+268,Taxe Services Communaux (TSC),324,Declaration fiscale Trimestre 1,1718.77,2026-04,2026
+269,Impôt sur les Sociétés (IS),400,Declaration fiscale Trimestre 4,14132.05,2026-03,2026
+270,Impôt sur les Sociétés (IS),73,Declaration fiscale Trimestre 1,4172.42,2026-09,2026
+271,Taxe Services Communaux (TSC),477,Declaration fiscale Trimestre 1,5880.76,2026-08,2026
+272,Impôt sur les Sociétés (IS),204,Declaration fiscale Trimestre 1,8990.01,2026-02,2026
+273,Taxe Professionnelle,476,Declaration fiscale Trimestre 4,13231.18,2026-07,2026
+274,TVA (Taxe sur la Valeur Ajoutée),531,Declaration fiscale Trimestre 1,8576.84,2026-02,2026
+275,Taxe Professionnelle,288,Declaration fiscale Trimestre 3,742.62,2026-09,2026
+276,Taxe Services Communaux (TSC),47,Declaration fiscale Trimestre 2,5126.62,2026-03,2026
+277,Cotisation Minimale,476,Declaration fiscale Trimestre 3,9585.69,2026-09,2026
+278,Impôt sur les Sociétés (IS),313,Declaration fiscale Trimestre 1,12798.62,2026-04,2026
+279,Impôt sur les Sociétés (IS),298,Declaration fiscale Trimestre 2,12738.78,2026-09,2026
+280,Cotisation Minimale,372,Declaration fiscale Trimestre 3,13869.16,2026-05,2026
+281,Cotisation Minimale,508,Declaration fiscale Trimestre 4,13905.64,2026-03,2026
+282,Impôt sur les Sociétés (IS),444,Declaration fiscale Trimestre 4,4874.32,2026-11,2026
+283,Taxe Services Communaux (TSC),419,Declaration fiscale Trimestre 1,4815.8,2026-09,2026
+284,Taxe Professionnelle,134,Declaration fiscale Trimestre 3,12281.93,2026-06,2026
+285,Taxe Professionnelle,501,Declaration fiscale Trimestre 2,2983.87,2026-04,2026
+286,Taxe Services Communaux (TSC),311,Declaration fiscale Trimestre 1,7902.66,2026-03,2026
+287,Impôt sur les Sociétés (IS),318,Declaration fiscale Trimestre 3,8518.1,2026-10,2026
+288,Taxe Professionnelle,25,Declaration fiscale Trimestre 3,2279.02,2026-01,2026
+289,Taxe Professionnelle,366,Declaration fiscale Trimestre 1,8661.39,2026-08,2026
+290,TVA (Taxe sur la Valeur Ajoutée),324,Declaration fiscale Trimestre 4,14842.57,2026-03,2026
+291,Taxe Services Communaux (TSC),264,Declaration fiscale Trimestre 3,10730.57,2026-09,2026
+292,Cotisation Minimale,444,Declaration fiscale Trimestre 1,12123.83,2026-03,2026
+293,Impôt sur les Sociétés (IS),152,Declaration fiscale Trimestre 4,605.0,2026-01,2026
+294,Cotisation Minimale,49,Declaration fiscale Trimestre 4,2535.9,2026-02,2026
+295,Taxe Services Communaux (TSC),382,Declaration fiscale Trimestre 2,13583.67,2026-05,2026
+296,Taxe Professionnelle,156,Declaration fiscale Trimestre 3,6201.34,2026-02,2026
+297,Impôt sur les Sociétés (IS),225,Declaration fiscale Trimestre 4,6339.71,2026-05,2026
+298,Cotisation Minimale,160,Declaration fiscale Trimestre 1,6472.87,2026-03,2026
+299,Impôt sur les Sociétés (IS),376,Declaration fiscale Trimestre 4,13245.75,2026-06,2026
+300,Taxe Services Communaux (TSC),508,Declaration fiscale Trimestre 1,13850.46,2026-11,2026
+301,TVA (Taxe sur la Valeur Ajoutée),451,Declaration fiscale Trimestre 1,1193.26,2026-08,2026
+302,Cotisation Minimale,384,Declaration fiscale Trimestre 3,7356.97,2026-01,2026
+303,Taxe Professionnelle,520,Declaration fiscale Trimestre 2,14753.42,2026-06,2026
+304,Taxe Services Communaux (TSC),262,Declaration fiscale Trimestre 2,6992.2,2026-12,2026
+305,Taxe Services Communaux (TSC),74,Declaration fiscale Trimestre 3,12835.05,2026-02,2026
+306,Taxe Services Communaux (TSC),110,Declaration fiscale Trimestre 1,10824.02,2026-12,2026
+307,Cotisation Minimale,83,Declaration fiscale Trimestre 4,12065.46,2026-08,2026
+308,TVA (Taxe sur la Valeur Ajoutée),369,Declaration fiscale Trimestre 1,8021.55,2026-09,2026
+309,Taxe Professionnelle,242,Declaration fiscale Trimestre 2,7104.17,2026-07,2026
+310,TVA (Taxe sur la Valeur Ajoutée),516,Declaration fiscale Trimestre 4,1201.49,2026-05,2026
+311,Taxe Services Communaux (TSC),81,Declaration fiscale Trimestre 3,12898.79,2026-06,2026
+312,TVA (Taxe sur la Valeur Ajoutée),10,Declaration fiscale Trimestre 1,12461.65,2026-03,2026
+313,Taxe Services Communaux (TSC),72,Declaration fiscale Trimestre 3,859.47,2026-05,2026
+314,Impôt sur les Sociétés (IS),444,Declaration fiscale Trimestre 3,12091.83,2026-11,2026
+315,TVA (Taxe sur la Valeur Ajoutée),199,Declaration fiscale Trimestre 4,13837.33,2026-01,2026
+316,Taxe Services Communaux (TSC),65,Declaration fiscale Trimestre 3,6460.71,2026-09,2026
+317,Cotisation Minimale,85,Declaration fiscale Trimestre 1,2297.6,2026-04,2026
+318,Impôt sur les Sociétés (IS),178,Declaration fiscale Trimestre 2,7168.72,2026-08,2026
+319,Taxe Professionnelle,457,Declaration fiscale Trimestre 4,2240.47,2026-09,2026
+320,TVA (Taxe sur la Valeur Ajoutée),282,Declaration fiscale Trimestre 4,261.09,2026-04,2026
+321,Taxe Professionnelle,404,Declaration fiscale Trimestre 1,11264.27,2026-02,2026
+322,Taxe Professionnelle,132,Declaration fiscale Trimestre 4,5938.02,2026-07,2026
+323,Taxe Professionnelle,398,Declaration fiscale Trimestre 2,972.59,2026-03,2026
+324,Taxe Professionnelle,297,Declaration fiscale Trimestre 2,13055.52,2026-02,2026
+325,Cotisation Minimale,512,Declaration fiscale Trimestre 4,3592.19,2026-05,2026
+326,Cotisation Minimale,513,Declaration fiscale Trimestre 4,14994.29,2026-03,2026
+327,TVA (Taxe sur la Valeur Ajoutée),84,Declaration fiscale Trimestre 1,3191.56,2026-09,2026
+328,Taxe Services Communaux (TSC),534,Declaration fiscale Trimestre 3,3042.98,2026-10,2026
+329,TVA (Taxe sur la Valeur Ajoutée),197,Declaration fiscale Trimestre 3,13907.2,2026-10,2026
+330,Taxe Services Communaux (TSC),256,Declaration fiscale Trimestre 4,13645.65,2026-03,2026
+331,Impôt sur les Sociétés (IS),458,Declaration fiscale Trimestre 2,4595.82,2026-12,2026
+332,Cotisation Minimale,128,Declaration fiscale Trimestre 4,8099.96,2026-11,2026
+333,Taxe Professionnelle,219,Declaration fiscale Trimestre 1,11864.02,2026-12,2026
+334,Taxe Professionnelle,134,Declaration fiscale Trimestre 2,9717.76,2026-03,2026
+335,Cotisation Minimale,188,Declaration fiscale Trimestre 4,4930.65,2026-04,2026
+336,Taxe Professionnelle,543,Declaration fiscale Trimestre 4,933.32,2026-02,2026
+337,Impôt sur les Sociétés (IS),289,Declaration fiscale Trimestre 1,11997.39,2026-06,2026
+338,Impôt sur les Sociétés (IS),498,Declaration fiscale Trimestre 3,5407.9,2026-06,2026
+339,Impôt sur les Sociétés (IS),116,Declaration fiscale Trimestre 2,6431.03,2026-03,2026
+340,TVA (Taxe sur la Valeur Ajoutée),489,Declaration fiscale Trimestre 1,11988.89,2026-10,2026
+341,Impôt sur les Sociétés (IS),121,Declaration fiscale Trimestre 3,10182.13,2026-03,2026
+342,Taxe Services Communaux (TSC),101,Declaration fiscale Trimestre 4,12311.23,2026-01,2026
+343,Cotisation Minimale,431,Declaration fiscale Trimestre 4,11312.69,2026-08,2026
+344,Taxe Professionnelle,392,Declaration fiscale Trimestre 1,208.09,2026-12,2026
+345,Impôt sur les Sociétés (IS),351,Declaration fiscale Trimestre 4,9177.85,2026-06,2026
+346,Taxe Services Communaux (TSC),379,Declaration fiscale Trimestre 2,7097.34,2026-03,2026
+347,Taxe Professionnelle,171,Declaration fiscale Trimestre 4,12764.85,2026-08,2026
+348,Cotisation Minimale,354,Declaration fiscale Trimestre 2,6875.06,2026-12,2026
+349,Impôt sur les Sociétés (IS),281,Declaration fiscale Trimestre 4,10909.68,2026-05,2026
+350,Taxe Professionnelle,163,Declaration fiscale Trimestre 4,13636.08,2026-02,2026
+351,TVA (Taxe sur la Valeur Ajoutée),298,Declaration fiscale Trimestre 2,6361.82,2026-06,2026
+352,TVA (Taxe sur la Valeur Ajoutée),62,Declaration fiscale Trimestre 1,11692.49,2026-03,2026
+353,Cotisation Minimale,383,Declaration fiscale Trimestre 2,12981.74,2026-06,2026
+354,TVA (Taxe sur la Valeur Ajoutée),138,Declaration fiscale Trimestre 4,13685.94,2026-12,2026
+355,Cotisation Minimale,364,Declaration fiscale Trimestre 2,7712.29,2026-09,2026
+356,Cotisation Minimale,484,Declaration fiscale Trimestre 1,14096.45,2026-12,2026
+357,Impôt sur les Sociétés (IS),36,Declaration fiscale Trimestre 1,3238.76,2026-11,2026
+358,Impôt sur les Sociétés (IS),402,Declaration fiscale Trimestre 4,8439.6,2026-08,2026
+359,Taxe Services Communaux (TSC),228,Declaration fiscale Trimestre 4,5827.64,2026-03,2026
+360,Impôt sur les Sociétés (IS),408,Declaration fiscale Trimestre 1,293.01,2026-03,2026
+361,Cotisation Minimale,250,Declaration fiscale Trimestre 1,8277.38,2026-12,2026
+362,Impôt sur les Sociétés (IS),308,Declaration fiscale Trimestre 4,9214.97,2026-01,2026
+363,Impôt sur les Sociétés (IS),39,Declaration fiscale Trimestre 3,11806.79,2026-01,2026
+364,Cotisation Minimale,280,Declaration fiscale Trimestre 1,6255.31,2026-06,2026
+365,Taxe Professionnelle,339,Declaration fiscale Trimestre 4,9576.22,2026-01,2026
+366,Taxe Services Communaux (TSC),11,Declaration fiscale Trimestre 4,1316.3,2026-03,2026
+367,Impôt sur les Sociétés (IS),41,Declaration fiscale Trimestre 1,14831.3,2026-11,2026
+368,TVA (Taxe sur la Valeur Ajoutée),498,Declaration fiscale Trimestre 1,14605.21,2026-10,2026
+369,Impôt sur les Sociétés (IS),251,Declaration fiscale Trimestre 4,2409.52,2026-10,2026
+370,Taxe Services Communaux (TSC),495,Declaration fiscale Trimestre 3,290.01,2026-02,2026
+371,Cotisation Minimale,538,Declaration fiscale Trimestre 3,7206.9,2026-10,2026
+372,Impôt sur les Sociétés (IS),218,Declaration fiscale Trimestre 1,11797.05,2026-08,2026
+373,TVA (Taxe sur la Valeur Ajoutée),372,Declaration fiscale Trimestre 3,4971.07,2026-12,2026
+374,TVA (Taxe sur la Valeur Ajoutée),432,Declaration fiscale Trimestre 3,3375.49,2026-12,2026
+375,Cotisation Minimale,542,Declaration fiscale Trimestre 2,7889.26,2026-04,2026
+376,Taxe Services Communaux (TSC),473,Declaration fiscale Trimestre 1,799.88,2026-04,2026
+377,Impôt sur les Sociétés (IS),108,Declaration fiscale Trimestre 4,8361.3,2026-08,2026
+378,Cotisation Minimale,503,Declaration fiscale Trimestre 3,7445.22,2026-03,2026
+379,Cotisation Minimale,471,Declaration fiscale Trimestre 2,9581.5,2026-02,2026
+380,Taxe Professionnelle,54,Declaration fiscale Trimestre 4,5246.53,2026-11,2026
+381,Taxe Services Communaux (TSC),417,Declaration fiscale Trimestre 1,5817.28,2026-06,2026
+382,Impôt sur les Sociétés (IS),103,Declaration fiscale Trimestre 2,12567.94,2026-09,2026
+383,Cotisation Minimale,210,Declaration fiscale Trimestre 2,2628.65,2026-01,2026
+384,Impôt sur les Sociétés (IS),412,Declaration fiscale Trimestre 2,518.46,2026-07,2026
+385,Taxe Services Communaux (TSC),500,Declaration fiscale Trimestre 2,9318.18,2026-11,2026
+386,Taxe Professionnelle,427,Declaration fiscale Trimestre 1,8964.65,2026-09,2026
+387,TVA (Taxe sur la Valeur Ajoutée),30,Declaration fiscale Trimestre 2,12887.37,2026-05,2026
+388,Taxe Professionnelle,413,Declaration fiscale Trimestre 2,10883.18,2026-12,2026
+389,TVA (Taxe sur la Valeur Ajoutée),181,Declaration fiscale Trimestre 4,4817.86,2026-09,2026
+390,Taxe Professionnelle,56,Declaration fiscale Trimestre 2,1303.02,2026-10,2026
+391,Taxe Professionnelle,174,Declaration fiscale Trimestre 4,4868.15,2026-02,2026
+392,TVA (Taxe sur la Valeur Ajoutée),453,Declaration fiscale Trimestre 4,2784.16,2026-09,2026
+393,Taxe Professionnelle,354,Declaration fiscale Trimestre 4,8062.43,2026-11,2026
+394,Taxe Professionnelle,426,Declaration fiscale Trimestre 1,2086.18,2026-07,2026
+395,Impôt sur les Sociétés (IS),226,Declaration fiscale Trimestre 2,12660.88,2026-01,2026
+396,Taxe Services Communaux (TSC),50,Declaration fiscale Trimestre 1,1213.45,2026-03,2026
+397,Cotisation Minimale,110,Declaration fiscale Trimestre 2,13783.98,2026-02,2026
+398,TVA (Taxe sur la Valeur Ajoutée),492,Declaration fiscale Trimestre 2,7968.86,2026-04,2026
+399,TVA (Taxe sur la Valeur Ajoutée),79,Declaration fiscale Trimestre 2,2663.59,2026-09,2026
+400,Impôt sur les Sociétés (IS),204,Declaration fiscale Trimestre 4,5382.49,2026-03,2026
+401,TVA (Taxe sur la Valeur Ajoutée),62,Declaration fiscale Trimestre 1,669.7,2026-03,2026
+402,Impôt sur les Sociétés (IS),341,Declaration fiscale Trimestre 2,13637.1,2026-11,2026
+403,Impôt sur les Sociétés (IS),53,Declaration fiscale Trimestre 1,8918.45,2026-01,2026
+404,TVA (Taxe sur la Valeur Ajoutée),69,Declaration fiscale Trimestre 4,1927.87,2026-10,2026
+405,TVA (Taxe sur la Valeur Ajoutée),523,Declaration fiscale Trimestre 3,9491.1,2026-09,2026
+406,TVA (Taxe sur la Valeur Ajoutée),331,Declaration fiscale Trimestre 1,10029.21,2026-02,2026
+407,TVA (Taxe sur la Valeur Ajoutée),170,Declaration fiscale Trimestre 2,10935.94,2026-05,2026
+408,TVA (Taxe sur la Valeur Ajoutée),78,Declaration fiscale Trimestre 1,14649.58,2026-06,2026
+409,Taxe Services Communaux (TSC),340,Declaration fiscale Trimestre 1,14830.55,2026-09,2026
+410,Taxe Services Communaux (TSC),479,Declaration fiscale Trimestre 1,3087.74,2026-03,2026
+411,Cotisation Minimale,497,Declaration fiscale Trimestre 2,8454.19,2026-01,2026
+412,Cotisation Minimale,97,Declaration fiscale Trimestre 3,9156.2,2026-08,2026
+413,Taxe Services Communaux (TSC),111,Declaration fiscale Trimestre 1,666.42,2026-04,2026
+414,TVA (Taxe sur la Valeur Ajoutée),311,Declaration fiscale Trimestre 1,3986.15,2026-06,2026
+415,Cotisation Minimale,514,Declaration fiscale Trimestre 1,11857.4,2026-12,2026
+416,Taxe Services Communaux (TSC),66,Declaration fiscale Trimestre 1,8577.11,2026-06,2026
+417,Taxe Professionnelle,303,Declaration fiscale Trimestre 2,5221.8,2026-09,2026
+418,TVA (Taxe sur la Valeur Ajoutée),164,Declaration fiscale Trimestre 4,5168.16,2026-10,2026
+419,Taxe Services Communaux (TSC),190,Declaration fiscale Trimestre 3,13869.81,2026-04,2026
+420,Cotisation Minimale,58,Declaration fiscale Trimestre 3,2911.34,2026-08,2026
+421,Taxe Professionnelle,316,Declaration fiscale Trimestre 4,5196.41,2026-04,2026
+422,TVA (Taxe sur la Valeur Ajoutée),496,Declaration fiscale Trimestre 2,5469.55,2026-10,2026
+423,Taxe Professionnelle,387,Declaration fiscale Trimestre 3,12684.58,2026-07,2026
+424,Impôt sur les Sociétés (IS),541,Declaration fiscale Trimestre 3,7688.72,2026-11,2026
+425,TVA (Taxe sur la Valeur Ajoutée),381,Declaration fiscale Trimestre 3,6863.05,2026-02,2026
+426,Taxe Services Communaux (TSC),24,Declaration fiscale Trimestre 4,12685.64,2026-02,2026
+427,Taxe Services Communaux (TSC),437,Declaration fiscale Trimestre 4,13659.02,2026-06,2026
+428,TVA (Taxe sur la Valeur Ajoutée),60,Declaration fiscale Trimestre 4,1730.52,2026-08,2026
+429,Impôt sur les Sociétés (IS),177,Declaration fiscale Trimestre 1,3898.33,2026-01,2026
+430,Taxe Professionnelle,358,Declaration fiscale Trimestre 2,8515.24,2026-08,2026
+431,Taxe Professionnelle,513,Declaration fiscale Trimestre 1,4963.83,2026-09,2026
+432,Cotisation Minimale,22,Declaration fiscale Trimestre 1,10873.06,2026-08,2026
+433,Cotisation Minimale,394,Declaration fiscale Trimestre 1,13803.23,2026-11,2026
+434,Cotisation Minimale,1,Declaration fiscale Trimestre 1,12358.12,2026-07,2026
+435,Taxe Professionnelle,267,Declaration fiscale Trimestre 4,5043.55,2026-06,2026
+436,Taxe Services Communaux (TSC),305,Declaration fiscale Trimestre 1,4026.08,2026-01,2026
+437,Taxe Professionnelle,269,Declaration fiscale Trimestre 3,6278.61,2026-05,2026
+438,Taxe Professionnelle,410,Declaration fiscale Trimestre 4,2783.37,2026-10,2026
+439,Cotisation Minimale,353,Declaration fiscale Trimestre 1,8859.76,2026-04,2026
+440,Cotisation Minimale,111,Declaration fiscale Trimestre 2,8107.08,2026-12,2026
+441,Taxe Professionnelle,287,Declaration fiscale Trimestre 3,14249.61,2026-04,2026
+442,Impôt sur les Sociétés (IS),185,Declaration fiscale Trimestre 2,7039.83,2026-06,2026
+443,Taxe Services Communaux (TSC),92,Declaration fiscale Trimestre 2,5668.75,2026-08,2026
+444,Cotisation Minimale,422,Declaration fiscale Trimestre 1,13776.54,2026-10,2026
+445,TVA (Taxe sur la Valeur Ajoutée),60,Declaration fiscale Trimestre 1,3234.42,2026-07,2026
+446,Taxe Professionnelle,505,Declaration fiscale Trimestre 4,1198.99,2026-02,2026
+447,Taxe Services Communaux (TSC),473,Declaration fiscale Trimestre 2,8660.03,2026-09,2026
+448,TVA (Taxe sur la Valeur Ajoutée),59,Declaration fiscale Trimestre 4,14285.76,2026-04,2026
+449,Impôt sur les Sociétés (IS),306,Declaration fiscale Trimestre 1,12271.73,2026-03,2026
+450,Cotisation Minimale,6,Declaration fiscale Trimestre 4,14174.28,2026-01,2026
+451,Impôt sur les Sociétés (IS),27,Declaration fiscale Trimestre 3,6242.89,2026-11,2026
+452,Taxe Services Communaux (TSC),4,Declaration fiscale Trimestre 3,13278.77,2026-07,2026
+453,Taxe Services Communaux (TSC),530,Declaration fiscale Trimestre 1,14056.0,2026-01,2026
+454,Impôt sur les Sociétés (IS),379,Declaration fiscale Trimestre 2,12952.44,2026-03,2026
+455,Cotisation Minimale,467,Declaration fiscale Trimestre 2,7008.98,2026-09,2026
+456,Impôt sur les Sociétés (IS),27,Declaration fiscale Trimestre 4,9952.34,2026-09,2026
+457,TVA (Taxe sur la Valeur Ajoutée),28,Declaration fiscale Trimestre 2,14996.21,2026-05,2026
+458,Taxe Services Communaux (TSC),107,Declaration fiscale Trimestre 4,6827.28,2026-02,2026
+459,Taxe Professionnelle,511,Declaration fiscale Trimestre 4,11466.23,2026-03,2026
+460,Cotisation Minimale,16,Declaration fiscale Trimestre 3,13529.33,2026-01,2026
+461,TVA (Taxe sur la Valeur Ajoutée),119,Declaration fiscale Trimestre 2,5079.72,2026-04,2026
+462,Taxe Services Communaux (TSC),289,Declaration fiscale Trimestre 4,489.46,2026-09,2026
+463,Impôt sur les Sociétés (IS),326,Declaration fiscale Trimestre 1,2724.47,2026-09,2026
+464,Taxe Professionnelle,461,Declaration fiscale Trimestre 3,10699.21,2026-02,2026
+465,TVA (Taxe sur la Valeur Ajoutée),353,Declaration fiscale Trimestre 4,5500.82,2026-08,2026
+466,Taxe Services Communaux (TSC),102,Declaration fiscale Trimestre 3,14499.37,2026-04,2026
+467,TVA (Taxe sur la Valeur Ajoutée),11,Declaration fiscale Trimestre 4,3998.44,2026-12,2026
+468,Taxe Professionnelle,523,Declaration fiscale Trimestre 2,6655.62,2026-09,2026
+469,TVA (Taxe sur la Valeur Ajoutée),84,Declaration fiscale Trimestre 2,709.52,2026-03,2026
+470,TVA (Taxe sur la Valeur Ajoutée),327,Declaration fiscale Trimestre 2,6187.01,2026-12,2026
+471,TVA (Taxe sur la Valeur Ajoutée),496,Declaration fiscale Trimestre 4,10341.72,2026-03,2026
+472,Impôt sur les Sociétés (IS),505,Declaration fiscale Trimestre 3,10253.55,2026-10,2026
+473,Cotisation Minimale,444,Declaration fiscale Trimestre 4,2282.17,2026-02,2026
+474,TVA (Taxe sur la Valeur Ajoutée),447,Declaration fiscale Trimestre 4,3821.43,2026-01,2026
+475,Cotisation Minimale,460,Declaration fiscale Trimestre 3,8923.72,2026-06,2026
+476,Taxe Professionnelle,123,Declaration fiscale Trimestre 3,1804.16,2026-03,2026
+477,Cotisation Minimale,81,Declaration fiscale Trimestre 4,7785.96,2026-01,2026
+478,Taxe Professionnelle,338,Declaration fiscale Trimestre 4,1249.82,2026-02,2026
+479,TVA (Taxe sur la Valeur Ajoutée),202,Declaration fiscale Trimestre 4,6494.32,2026-10,2026
+480,Taxe Services Communaux (TSC),420,Declaration fiscale Trimestre 3,7705.06,2026-02,2026
+481,TVA (Taxe sur la Valeur Ajoutée),539,Declaration fiscale Trimestre 2,12091.25,2026-09,2026
+482,TVA (Taxe sur la Valeur Ajoutée),432,Declaration fiscale Trimestre 1,9821.04,2026-07,2026
+483,TVA (Taxe sur la Valeur Ajoutée),136,Declaration fiscale Trimestre 3,5251.35,2026-08,2026
+484,Taxe Services Communaux (TSC),353,Declaration fiscale Trimestre 3,8690.57,2026-01,2026
+485,TVA (Taxe sur la Valeur Ajoutée),491,Declaration fiscale Trimestre 2,12572.76,2026-10,2026
+486,Impôt sur les Sociétés (IS),60,Declaration fiscale Trimestre 2,4191.82,2026-07,2026
+487,Impôt sur les Sociétés (IS),315,Declaration fiscale Trimestre 2,4263.84,2026-11,2026
+488,Cotisation Minimale,535,Declaration fiscale Trimestre 3,10379.38,2026-03,2026
+489,Cotisation Minimale,87,Declaration fiscale Trimestre 1,7766.07,2026-06,2026
+490,TVA (Taxe sur la Valeur Ajoutée),501,Declaration fiscale Trimestre 3,12473.6,2026-08,2026
+491,Taxe Professionnelle,321,Declaration fiscale Trimestre 4,8811.12,2026-07,2026
+492,Cotisation Minimale,71,Declaration fiscale Trimestre 4,11458.86,2026-04,2026
+493,Taxe Professionnelle,63,Declaration fiscale Trimestre 1,7121.79,2026-04,2026
+494,Taxe Professionnelle,403,Declaration fiscale Trimestre 3,13342.34,2026-12,2026
+495,Taxe Services Communaux (TSC),4,Declaration fiscale Trimestre 1,2013.37,2026-04,2026
+496,Cotisation Minimale,184,Declaration fiscale Trimestre 4,9792.9,2026-07,2026
+497,Impôt sur les Sociétés (IS),456,Declaration fiscale Trimestre 4,1533.31,2026-03,2026
+498,Taxe Professionnelle,318,Declaration fiscale Trimestre 4,7218.99,2026-10,2026
+499,Taxe Services Communaux (TSC),45,Declaration fiscale Trimestre 1,3483.07,2026-11,2026
+500,Cotisation Minimale,547,Declaration fiscale Trimestre 4,2148.17,2026-01,2026
+501,Taxe Professionnelle,82,Declaration fiscale Trimestre 1,13726.82,2026-06,2026
+502,TVA (Taxe sur la Valeur Ajoutée),143,Declaration fiscale Trimestre 4,5166.95,2026-08,2026
+503,Taxe Services Communaux (TSC),120,Declaration fiscale Trimestre 1,6156.35,2026-03,2026
+504,Taxe Services Communaux (TSC),434,Declaration fiscale Trimestre 4,5488.63,2026-05,2026
+505,Impôt sur les Sociétés (IS),257,Declaration fiscale Trimestre 1,4395.24,2026-07,2026
+506,Cotisation Minimale,86,Declaration fiscale Trimestre 1,3382.35,2026-11,2026
+507,Impôt sur les Sociétés (IS),463,Declaration fiscale Trimestre 2,6479.73,2026-08,2026
+508,Taxe Services Communaux (TSC),508,Declaration fiscale Trimestre 1,2561.87,2026-06,2026
+509,Taxe Professionnelle,307,Declaration fiscale Trimestre 4,6602.29,2026-02,2026
+510,TVA (Taxe sur la Valeur Ajoutée),330,Declaration fiscale Trimestre 3,7218.11,2026-05,2026

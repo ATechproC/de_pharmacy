@@ -1,0 +1,187 @@
+{"timestamp":"2026-08-09T09:30:14.168230Z","level":"info","event":"::group::Pre Execute","logger":"task","filename":"task_runner.py","lineno":2303}
+{"timestamp":"2026-08-09T09:30:21.207589Z","level":"info","event":"DAG bundles loaded: dags-folder","dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":271}
+{"timestamp":"2026-08-09T09:30:21.238488Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/orchestration.py","dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-08-09T09:30:22.670848Z","level":"info","event":"Worker startup parse complete","bundle_name":"dags-folder","bundle_version":null,"dag_file":"orchestration.py","dag_id":"dag_orchestration_id","bundle_prepare_ms":35,"dag_file_parse_ms":1449,"task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"logger":"task","filename":"task_runner.py","lineno":1062}
+{"timestamp":"2026-08-09T09:30:22.825582Z","level":"info","event":"::endgroup::","dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"logger":"task","filename":"task_runner.py","lineno":2107}
+{"timestamp":"2026-08-09T09:30:29.535523Z","level":"warning","event":"urllib3 (2.7.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.7) doesn't match a supported version!","category":"RequestsDependencyWarning","filename":"/home/airflow/.local/lib/python3.13/site-packages/snowflake/connector/vendored/requests/__init__.py","lineno":113,"dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"logger":"py.warnings"}
+{"timestamp":"2026-08-09T09:30:30.420537Z","level":"info","event":"✅ MySQL Connection Successful","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:30.416174Z","level":"info","event":"Snowflake Connector for Python Version: 4.6.0, Python Version: 3.13.14, Platform: Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.36","logger":"snowflake.connector.connection","dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"filename":"connection.py","lineno":638}
+{"timestamp":"2026-08-09T09:30:30.425880Z","level":"info","event":"Connecting to GLOBAL Snowflake domain","logger":"snowflake.connector.connection","dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"filename":"connection.py","lineno":1760}
+{"timestamp":"2026-08-09T09:30:33.161617Z","level":"warning","event":"Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError(\"HTTPSConnection(host='jujsnuq-ru38005.snowflakecomputing.com', port=443): Failed to resolve 'jujsnuq-ru38005.snowflakecomputing.com' ([Errno -2] Name or service not known)\")': /session/v1/login-request?request_id=fe9a2981-3b9e-4c3a-9244-c3141d966053&databaseName=pharmacy_db&schemaName=common&warehouse=COMPUTE_WH&roleName=ACCOUNTADMIN&request_guid=a0aeec96-1e7c-4154-800e-92d72e9be8dc","logger":"snowflake.connector.vendored.urllib3.connectionpool","dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"filename":"connectionpool.py","lineno":869}
+{"timestamp":"2026-08-09T09:30:34.386735Z","level":"warning","event":"Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError(\"HTTPSConnection(host='jujsnuq-ru38005.snowflakecomputing.com', port=443): Failed to resolve 'jujsnuq-ru38005.snowflakecomputing.com' ([Errno -2] Name or service not known)\")': /session/v1/login-request?request_id=adab22cf-ee66-48de-895a-a678245ff0a5&databaseName=pharmacy_db&schemaName=common&warehouse=COMPUTE_WH&roleName=ACCOUNTADMIN&request_guid=43e1db49-e3c6-4f87-8b4d-809f879669ce","logger":"snowflake.connector.vendored.urllib3.connectionpool","dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"filename":"connectionpool.py","lineno":869}
+{"timestamp":"2026-08-09T09:30:34.426561Z","level":"info","event":"❌ Snowflake Connection Error: 250001: 250001: Could not connect to Snowflake backend after 2 attempt(s).Aborting","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.467736Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.496159Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.500336Z","level":"info","event":"PROCESSING TABLE: addresses","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.502173Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.503387Z","level":"info","event":"Extracting addresses from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.818335Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.824610Z","level":"info","event":"Next file number: 3","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.855700Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.858405Z","level":"info","event":"/opt/airflow/mysql_exports/addresses/addresses3.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.862468Z","level":"info","event":"Uploading addresses3.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.864206Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/addresses/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.870371Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.873152Z","level":"info","event":"❌ Failed to migrate addresses","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.876795Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.885067Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.890842Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.897074Z","level":"info","event":"PROCESSING TABLE: cart-items","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.898835Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:34.903570Z","level":"info","event":"Extracting cart-items from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.032160Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.038412Z","level":"info","event":"Next file number: 3","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.058903Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.063244Z","level":"info","event":"/opt/airflow/mysql_exports/cart-items/cart-items3.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.068899Z","level":"info","event":"Uploading cart-items3.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.076070Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/cart-items/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.079831Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.084587Z","level":"info","event":"❌ Failed to migrate cart-items","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.091519Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.093407Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.098069Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.104249Z","level":"info","event":"PROCESSING TABLE: carts","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.105916Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.110963Z","level":"info","event":"Extracting carts from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.170793Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.173395Z","level":"info","event":"Next file number: 4","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.178915Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.180568Z","level":"info","event":"/opt/airflow/mysql_exports/carts/carts4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.183003Z","level":"info","event":"Uploading carts4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.188937Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/carts/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.193318Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.196844Z","level":"info","event":"❌ Failed to migrate carts","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.198750Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.200938Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.222140Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.226397Z","level":"info","event":"PROCESSING TABLE: categories","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.227686Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.228929Z","level":"info","event":"Extracting categories from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.319452Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.324191Z","level":"info","event":"Next file number: 4","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.331903Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.335386Z","level":"info","event":"/opt/airflow/mysql_exports/categories/categories4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.337184Z","level":"info","event":"Uploading categories4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.339350Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/categories/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.340894Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.349019Z","level":"info","event":"❌ Failed to migrate categories","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.357033Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.362622Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.364067Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.365327Z","level":"info","event":"PROCESSING TABLE: credits","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.367735Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.373372Z","level":"info","event":"Extracting credits from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.489129Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.492600Z","level":"info","event":"Next file number: 4","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.495935Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.498857Z","level":"info","event":"/opt/airflow/mysql_exports/credits/credits4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.502667Z","level":"info","event":"Uploading credits4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.504838Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/credits/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.506313Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.507631Z","level":"info","event":"❌ Failed to migrate credits","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.509928Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.511441Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.513683Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.515139Z","level":"info","event":"PROCESSING TABLE: medicine","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.519892Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.521773Z","level":"info","event":"Extracting medicine from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.761492Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.786134Z","level":"info","event":"Next file number: 4","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.796732Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.810609Z","level":"info","event":"/opt/airflow/mysql_exports/medicine/medicine4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.811957Z","level":"info","event":"Uploading medicine4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.817531Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/medicine/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.824525Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.827721Z","level":"info","event":"❌ Failed to migrate medicine","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.829367Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.832651Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.844676Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.854235Z","level":"info","event":"PROCESSING TABLE: order-items","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.856331Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.857997Z","level":"info","event":"Extracting order-items from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.956659Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.961607Z","level":"info","event":"Next file number: 4","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.967992Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.970138Z","level":"info","event":"/opt/airflow/mysql_exports/order-items/order-items4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.971560Z","level":"info","event":"Uploading order-items4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.972924Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/order-items/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.975172Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.978120Z","level":"info","event":"❌ Failed to migrate order-items","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.986462Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:35.996517Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.007864Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.012417Z","level":"info","event":"PROCESSING TABLE: orders","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.014090Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.021523Z","level":"info","event":"Extracting orders from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.085889Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.093360Z","level":"info","event":"Next file number: 4","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.102734Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.105079Z","level":"info","event":"/opt/airflow/mysql_exports/orders/orders4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.107167Z","level":"info","event":"Uploading orders4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.108516Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/orders/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.109588Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.111315Z","level":"info","event":"❌ Failed to migrate orders","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.113549Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.119884Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.124335Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.130207Z","level":"info","event":"PROCESSING TABLE: pharmacy","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.131974Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.134966Z","level":"info","event":"Extracting pharmacy from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.190302Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.194994Z","level":"info","event":"Next file number: 4","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.198227Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.205669Z","level":"info","event":"/opt/airflow/mysql_exports/pharmacy/pharmacy4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.208106Z","level":"info","event":"Uploading pharmacy4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.210845Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/pharmacy/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.212795Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.215948Z","level":"info","event":"❌ Failed to migrate pharmacy","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.222179Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.226813Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.229049Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.234218Z","level":"info","event":"PROCESSING TABLE: suppliers","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.238029Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.241406Z","level":"info","event":"Extracting suppliers from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.298866Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.302339Z","level":"info","event":"Next file number: 4","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.305939Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.307991Z","level":"info","event":"/opt/airflow/mysql_exports/suppliers/suppliers4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.312742Z","level":"info","event":"Uploading suppliers4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.320266Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/suppliers/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.322639Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.325313Z","level":"info","event":"❌ Failed to migrate suppliers","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.330776Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.334833Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.338843Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.341420Z","level":"info","event":"PROCESSING TABLE: taxes","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.344798Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.346111Z","level":"info","event":"Extracting taxes from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.397644Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.405001Z","level":"info","event":"Next file number: 4","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.426715Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.428878Z","level":"info","event":"/opt/airflow/mysql_exports/taxes/taxes4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.432549Z","level":"info","event":"Uploading taxes4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.435862Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/taxes/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.440987Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.443539Z","level":"info","event":"❌ Failed to migrate taxes","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.445049Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.446841Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.449489Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.455202Z","level":"info","event":"PROCESSING TABLE: users","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.459119Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.463673Z","level":"info","event":"Extracting users from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.496334Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.498131Z","level":"info","event":"Next file number: 4","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.510199Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.513139Z","level":"info","event":"/opt/airflow/mysql_exports/users/users4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.514447Z","level":"info","event":"Uploading users4.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.516772Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/users/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.520381Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.522698Z","level":"info","event":"❌ Failed to migrate users","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.525029Z","level":"info","event":"Error: cannot access local variable 'snow_cursor' where it is not associated with a value","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.526966Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.528659Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.530129Z","level":"info","event":"ALL TABLES PROCESSED","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.531512Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:30:36.508913Z","level":"info","event":"Done. Returned value was: None","dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":233}
+{"timestamp":"2026-08-09T09:30:36.509362Z","level":"info","event":"::group::Post Execute","dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"logger":"task","filename":"task_runner.py","lineno":1577}
+{"timestamp":"2026-08-09T09:30:36.756761Z","level":"info","event":"::endgroup::","dag_id":"dag_orchestration_id","task_id":"create_tables_snow","try_number":1,"run_id":"scheduled__2026-08-07T23:00:00+00:00","ti_id":"019fe5db-bf34-7517-9f7e-4161e45f61fa","map_index":-1,"logger":"task","filename":"task_runner.py","lineno":2270}

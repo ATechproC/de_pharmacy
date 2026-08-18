@@ -1,0 +1,16 @@
+# data manipulation
+pandas
+
+# database connectivity
+sqlalchemy
+psycopg2-binary
+pyodbc
+pymysql
+snowflake-sqlalchemy
+snowflake-connector-python[pandas]
+cryptography
+mysql-replication
+
+# jupyter notebook support
+ipykernel
+notebook

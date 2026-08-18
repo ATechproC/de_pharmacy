@@ -1,0 +1,71 @@
+id,street,city,country,pharmacy_id
+1,"49, Avenue Ibn Sina",Safi,Morocco,1
+2,"232, Derb Al Mouqawama",Khouribga,Morocco,2
+3,"132, Derb Tariq Ibn Ziyad",Temara,Morocco,3
+4,"235, Avenue Al Mouqawama",Tetouan,Morocco,4
+5,"171, Zankat Lalla Yacout",Fes,Morocco,5
+6,"139, Zankat Mohammed V",Tangier,Morocco,6
+7,"211, Boulevard Zerktouni",Temara,Morocco,7
+8,"255, Avenue Al Massira Al Khadra",Taza,Morocco,8
+9,"221, Rue Moulay Youssef",Marrakech,Morocco,9
+10,"100, Derb Allal Ben Abdellah",Kenitra,Morocco,10
+11,"279, Derb Ibn Khaldoun",Agadir,Morocco,11
+12,"136, Rue Al Qods",Sale,Morocco,12
+13,"214, Rue Ibn Sina",Meknes,Morocco,13
+14,"22, Zankat Ibn Khaldoun",Safi,Morocco,14
+15,"63, Derb Bir Anzarane",Taza,Morocco,15
+16,"178, Rue Allal Ben Abdellah",Casablanca,Morocco,16
+17,"256, Boulevard Bir Anzarane",Tangier,Morocco,17
+18,"268, Rue Anfa",Tetouan,Morocco,18
+19,"250, Rue FAR",Tetouan,Morocco,19
+20,"8, Derb Hassan II",Meknes,Morocco,20
+21,"145, Zankat Allal Ben Abdellah",Rabat,Morocco,21
+22,"251, Rue Mohammed V",Mohammedia,Morocco,22
+23,"181, Avenue Hassan II",Kenitra,Morocco,23
+24,"71, Rue Ibn Sina",Beni Mellal,Morocco,24
+25,"288, Boulevard FAR",Kenitra,Morocco,25
+26,"74, Boulevard 2 March",Taza,Morocco,26
+27,"42, Rue Al Massira Al Khadra",Rabat,Morocco,27
+28,"243, Rue Al Massira Al Khadra",Sale,Morocco,28
+29,"217, Derb Allal Ben Abdellah",Kenitra,Morocco,29
+30,"155, Zankat Ibn Sina",Agadir,Morocco,30
+31,"289, Derb Al Qods Suite 100",Taza,Morocco,31
+32,"72, Boulevard Tariq Ibn Ziyad Suite 100",Tangier,Morocco,32
+33,"214, Zankat Moulay Youssef Suite 100",Tetouan,Morocco,33
+34,"157, Avenue Ibn Sina Suite 100",Taza,Morocco,34
+35,"237, Zankat Anfa Suite 100",Sale,Morocco,35
+36,"224, Avenue Zerktouni Suite 100",Beni Mellal,Morocco,36
+37,"227, Rue Ibn Khaldoun Suite 100",Temara,Morocco,37
+38,"240, Rue 2 March Suite 100",El Jadida,Morocco,38
+39,"216, Derb Bir Anzarane Suite 100",Casablanca,Morocco,39
+40,"287, Avenue 2 March Suite 100",Marrakech,Morocco,40
+41,"72, Zankat Ibn Sina Suite 100",Oujda,Morocco,41
+42,"298, Zankat Al Mouqawama Suite 100",Tangier,Morocco,42
+43,"279, Zankat Ibn Sina Suite 100",Rabat,Morocco,43
+44,"202, Boulevard Abdelmoumen Suite 100",Casablanca,Morocco,44
+45,"237, Zankat Bir Anzarane Suite 100",Rabat,Morocco,45
+46,"44, Avenue Tariq Ibn Ziyad Suite 100",Fes,Morocco,46
+47,"171, Zankat Allal Ben Abdellah Suite 100",Tetouan,Morocco,47
+48,"290, Derb Al Qods Suite 100",Rabat,Morocco,48
+49,"63, Zankat Ibn Khaldoun Suite 100",Rabat,Morocco,49
+50,"105, Zankat Zerktouni Suite 100",Khouribga,Morocco,50
+551,"1653, Avenue Hassan II",Rabat,Morocco,551
+552,"1656, Avenue Hassan II",Tanger,Morocco,552
+553,"1659, Avenue Hassan II",Marrakech,Morocco,553
+554,"1662, Avenue Hassan II",Agadir,Morocco,554
+555,"1665, Avenue Hassan II",Casablanca,Morocco,555
+556,"1668, Avenue Hassan II",Rabat,Morocco,556
+557,"1671, Avenue Hassan II",Tanger,Morocco,557
+558,"1674, Avenue Hassan II",Marrakech,Morocco,558
+559,"1677, Avenue Hassan II",Agadir,Morocco,559
+560,"1680, Avenue Hassan II",Casablanca,Morocco,560
+561,"1683, Avenue Hassan II",Rabat,Morocco,561
+562,"1686, Avenue Hassan II",Tanger,Morocco,562
+563,"1689, Avenue Hassan II",Marrakech,Morocco,563
+564,"1692, Avenue Hassan II",Agadir,Morocco,564
+565,"1695, Avenue Hassan II",Casablanca,Morocco,565
+566,"1698, Avenue Hassan II",Rabat,Morocco,566
+567,"1701, Avenue Hassan II",Tanger,Morocco,567
+568,"1704, Avenue Hassan II",Marrakech,Morocco,568
+569,"1707, Avenue Hassan II",Agadir,Morocco,569
+570,"1710, Avenue Hassan II",Casablanca,Morocco,570

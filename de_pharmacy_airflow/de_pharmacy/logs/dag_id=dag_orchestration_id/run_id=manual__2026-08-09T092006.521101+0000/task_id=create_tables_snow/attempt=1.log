@@ -1,0 +1,202 @@
+{"timestamp":"2026-08-09T09:20:11.538069Z","level":"info","event":"::group::Pre Execute","logger":"task","filename":"task_runner.py","lineno":2303}
+{"timestamp":"2026-08-09T09:20:12.148405Z","level":"info","event":"DAG bundles loaded: dags-folder","try_number":1,"run_id":"manual__2026-08-09T09:20:06.521101+00:00","map_index":-1,"dag_id":"dag_orchestration_id","task_id":"create_tables_snow","ti_id":"019fe5d2-840c-72db-b3e9-130265cf4a2e","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":271}
+{"timestamp":"2026-08-09T09:20:12.237774Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/orchestration.py","try_number":1,"run_id":"manual__2026-08-09T09:20:06.521101+00:00","map_index":-1,"dag_id":"dag_orchestration_id","task_id":"create_tables_snow","ti_id":"019fe5d2-840c-72db-b3e9-130265cf4a2e","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-08-09T09:20:15.958806Z","level":"info","event":"Worker startup parse complete","bundle_name":"dags-folder","bundle_version":null,"dag_file":"orchestration.py","dag_id":"dag_orchestration_id","bundle_prepare_ms":239,"dag_file_parse_ms":3756,"try_number":1,"run_id":"manual__2026-08-09T09:20:06.521101+00:00","map_index":-1,"task_id":"create_tables_snow","ti_id":"019fe5d2-840c-72db-b3e9-130265cf4a2e","logger":"task","filename":"task_runner.py","lineno":1062}
+{"timestamp":"2026-08-09T09:20:17.236506Z","level":"info","event":"::endgroup::","try_number":1,"run_id":"manual__2026-08-09T09:20:06.521101+00:00","map_index":-1,"dag_id":"dag_orchestration_id","task_id":"create_tables_snow","ti_id":"019fe5d2-840c-72db-b3e9-130265cf4a2e","logger":"task","filename":"task_runner.py","lineno":2107}
+{"timestamp":"2026-08-09T09:20:24.205287Z","level":"warning","event":"urllib3 (2.7.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.7) doesn't match a supported version!","category":"RequestsDependencyWarning","filename":"/home/airflow/.local/lib/python3.13/site-packages/snowflake/connector/vendored/requests/__init__.py","lineno":113,"try_number":1,"run_id":"manual__2026-08-09T09:20:06.521101+00:00","map_index":-1,"dag_id":"dag_orchestration_id","task_id":"create_tables_snow","ti_id":"019fe5d2-840c-72db-b3e9-130265cf4a2e","logger":"py.warnings"}
+{"timestamp":"2026-08-09T09:20:25.030462Z","level":"info","event":"✅ MySQL Connection Successful","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:25.030134Z","level":"info","event":"Snowflake Connector for Python Version: 4.6.0, Python Version: 3.13.14, Platform: Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.36","logger":"snowflake.connector.connection","try_number":1,"run_id":"manual__2026-08-09T09:20:06.521101+00:00","map_index":-1,"dag_id":"dag_orchestration_id","task_id":"create_tables_snow","ti_id":"019fe5d2-840c-72db-b3e9-130265cf4a2e","filename":"connection.py","lineno":638}
+{"timestamp":"2026-08-09T09:20:25.032232Z","level":"info","event":"Connecting to GLOBAL Snowflake domain","logger":"snowflake.connector.connection","try_number":1,"run_id":"manual__2026-08-09T09:20:06.521101+00:00","map_index":-1,"dag_id":"dag_orchestration_id","task_id":"create_tables_snow","ti_id":"019fe5d2-840c-72db-b3e9-130265cf4a2e","filename":"connection.py","lineno":1760}
+{"timestamp":"2026-08-09T09:20:28.468300Z","level":"info","event":"✅ Snowflake Connection Successful","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.471727Z","level":"info","event":"User: ATECHPROC","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.475007Z","level":"info","event":"Database: PHARMACY_DB","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.476990Z","level":"info","event":"Schema: COMMON","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.479941Z","level":"info","event":"Warehouse: COMPUTE_WH","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.481831Z","level":"info","event":"Role: ACCOUNTADMIN","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.568661Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.571468Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.572936Z","level":"info","event":"PROCESSING TABLE: addresses","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.576452Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.578835Z","level":"info","event":"Extracting addresses from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.811835Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.818642Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.829429Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.831078Z","level":"info","event":"/opt/airflow/mysql_exports/addresses/addresses2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.846650Z","level":"info","event":"Uploading addresses2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:28.855060Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/addresses/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.573028Z","level":"info","event":"('addresses2.csv', 'addresses2.csv.gz', 258, 224, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.575763Z","level":"info","event":"✅ addresses2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.579399Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/addresses/addresses2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.585065Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/addresses/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.592491Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.595307Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.597241Z","level":"info","event":"PROCESSING TABLE: cart-items","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.599435Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.602241Z","level":"info","event":"Extracting cart-items from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.773088Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.775207Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.785194Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.786844Z","level":"info","event":"/opt/airflow/mysql_exports/cart-items/cart-items2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.788333Z","level":"info","event":"Uploading cart-items2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:29.795037Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/cart-items/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.171758Z","level":"info","event":"('cart-items2.csv', 'cart-items2.csv.gz', 246, 192, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.173675Z","level":"info","event":"✅ cart-items2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.175198Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/cart-items/cart-items2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.177328Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/cart-items/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.179160Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.180457Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.183642Z","level":"info","event":"PROCESSING TABLE: carts","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.186929Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.188874Z","level":"info","event":"Extracting carts from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.239670Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.241152Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.246148Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.247603Z","level":"info","event":"/opt/airflow/mysql_exports/carts/carts2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.252434Z","level":"info","event":"Uploading carts2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.253712Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/carts/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.573754Z","level":"info","event":"('carts2.csv', 'carts2.csv.gz', 212, 160, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.576471Z","level":"info","event":"✅ carts2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.577874Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/carts/carts2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.579466Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/carts/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.580850Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.583391Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.585593Z","level":"info","event":"PROCESSING TABLE: categories","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.586939Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.587992Z","level":"info","event":"Extracting categories from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.635822Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.639733Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.641042Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.643414Z","level":"info","event":"/opt/airflow/mysql_exports/categories/categories2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.644740Z","level":"info","event":"Uploading categories2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.645915Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/categories/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.992576Z","level":"info","event":"('categories2.csv', 'categories2.csv.gz', 242, 208, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:30.996659Z","level":"info","event":"✅ categories2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.008281Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/categories/categories2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.010568Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/categories/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.013945Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.019106Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.021294Z","level":"info","event":"PROCESSING TABLE: credits","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.022724Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.027025Z","level":"info","event":"Extracting credits from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.089374Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.096102Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.097891Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.105314Z","level":"info","event":"/opt/airflow/mysql_exports/credits/credits2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.107573Z","level":"info","event":"Uploading credits2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.112280Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/credits/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.472545Z","level":"info","event":"('credits2.csv', 'credits2.csv.gz', 404, 272, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.474539Z","level":"info","event":"✅ credits2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.481219Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/credits/credits2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.482637Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/credits/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.486049Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.487747Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.490514Z","level":"info","event":"PROCESSING TABLE: medicine","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.494395Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.501438Z","level":"info","event":"Extracting medicine from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.544520Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.561419Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.563667Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.564866Z","level":"info","event":"/opt/airflow/mysql_exports/medicine/medicine2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.566602Z","level":"info","event":"Uploading medicine2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.568383Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/medicine/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.918599Z","level":"info","event":"('medicine2.csv', 'medicine2.csv.gz', 614, 400, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.924341Z","level":"info","event":"✅ medicine2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.925684Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/medicine/medicine2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.927625Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/medicine/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.929413Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.931388Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.941725Z","level":"info","event":"PROCESSING TABLE: order-items","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.944998Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:31.957251Z","level":"info","event":"Extracting order-items from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.040191Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.042406Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.044639Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.045842Z","level":"info","event":"/opt/airflow/mysql_exports/order-items/order-items2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.047087Z","level":"info","event":"Uploading order-items2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.049894Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/order-items/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.420933Z","level":"info","event":"('order-items2.csv', 'order-items2.csv.gz', 246, 192, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.422591Z","level":"info","event":"✅ order-items2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.424098Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/order-items/order-items2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.425446Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/order-items/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.426549Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.427769Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.429032Z","level":"info","event":"PROCESSING TABLE: orders","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.430028Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.431253Z","level":"info","event":"Extracting orders from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.491752Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.494131Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.496736Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.498123Z","level":"info","event":"/opt/airflow/mysql_exports/orders/orders2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.502127Z","level":"info","event":"Uploading orders2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.504094Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/orders/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.934593Z","level":"info","event":"('orders2.csv', 'orders2.csv.gz', 424, 240, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.937097Z","level":"info","event":"✅ orders2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.938337Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/orders/orders2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.940166Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/orders/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.941674Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.944110Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.945316Z","level":"info","event":"PROCESSING TABLE: pharmacy","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.946355Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.947487Z","level":"info","event":"Extracting pharmacy from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.980809Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.987769Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.989928Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.991135Z","level":"info","event":"/opt/airflow/mysql_exports/pharmacy/pharmacy2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.992032Z","level":"info","event":"Uploading pharmacy2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:32.993456Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/pharmacy/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.341396Z","level":"info","event":"('pharmacy2.csv', 'pharmacy2.csv.gz', 358, 224, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.345632Z","level":"info","event":"✅ pharmacy2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.347446Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/pharmacy/pharmacy2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.350452Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/pharmacy/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.352133Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.353420Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.354611Z","level":"info","event":"PROCESSING TABLE: suppliers","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.356143Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.359659Z","level":"info","event":"Extracting suppliers from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.445284Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.447001Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.450299Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.453713Z","level":"info","event":"/opt/airflow/mysql_exports/suppliers/suppliers2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.458190Z","level":"info","event":"Uploading suppliers2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.460094Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/suppliers/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.824068Z","level":"info","event":"('suppliers2.csv', 'suppliers2.csv.gz', 237, 192, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.851189Z","level":"info","event":"✅ suppliers2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.853649Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/suppliers/suppliers2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.855463Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/suppliers/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.856761Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.857969Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.859035Z","level":"info","event":"PROCESSING TABLE: taxes","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.860680Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.861910Z","level":"info","event":"Extracting taxes from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.880449Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.882196Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.885324Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.886706Z","level":"info","event":"/opt/airflow/mysql_exports/taxes/taxes2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.887777Z","level":"info","event":"Uploading taxes2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:33.889098Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/taxes/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.196657Z","level":"info","event":"('taxes2.csv', 'taxes2.csv.gz', 391, 272, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.198612Z","level":"info","event":"✅ taxes2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.202024Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/taxes/taxes2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.204836Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/taxes/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.206512Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.208391Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.209703Z","level":"info","event":"PROCESSING TABLE: users","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.211064Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.214151Z","level":"info","event":"Extracting users from MySQL...","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.252371Z","level":"info","event":"Rows extracted: 5","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.261279Z","level":"info","event":"Next file number: 2","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.264451Z","level":"info","event":"Created CSV:","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.271188Z","level":"info","event":"/opt/airflow/mysql_exports/users/users2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.272462Z","level":"info","event":"Uploading users2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.273468Z","level":"info","event":"Stage: @PHARMACY_DB.COMMON.CSV_STAGE/users/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.595332Z","level":"info","event":"('users2.csv', 'users2.csv.gz', 482, 256, 'NONE', 'GZIP', 'UPLOADED', '')","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.596726Z","level":"info","event":"✅ users2.csv successfully uploaded","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.598139Z","level":"info","event":"   Local : /opt/airflow/mysql_exports/users/users2.csv","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.601016Z","level":"info","event":"   Stage : @PHARMACY_DB.COMMON.CSV_STAGE/users/","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.602395Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.603786Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.604937Z","level":"info","event":"ALL TABLES PROCESSED","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.606059Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-08-09T09:20:34.595884Z","level":"info","event":"Done. Returned value was: None","try_number":1,"run_id":"manual__2026-08-09T09:20:06.521101+00:00","map_index":-1,"dag_id":"dag_orchestration_id","task_id":"create_tables_snow","ti_id":"019fe5d2-840c-72db-b3e9-130265cf4a2e","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":233}
+{"timestamp":"2026-08-09T09:20:34.596364Z","level":"info","event":"::group::Post Execute","try_number":1,"run_id":"manual__2026-08-09T09:20:06.521101+00:00","map_index":-1,"dag_id":"dag_orchestration_id","task_id":"create_tables_snow","ti_id":"019fe5d2-840c-72db-b3e9-130265cf4a2e","logger":"task","filename":"task_runner.py","lineno":1577}
+{"timestamp":"2026-08-09T09:20:34.703679Z","level":"info","event":"::endgroup::","try_number":1,"run_id":"manual__2026-08-09T09:20:06.521101+00:00","map_index":-1,"dag_id":"dag_orchestration_id","task_id":"create_tables_snow","ti_id":"019fe5d2-840c-72db-b3e9-130265cf4a2e","logger":"task","filename":"task_runner.py","lineno":2270}
